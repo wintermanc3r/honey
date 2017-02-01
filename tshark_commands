@@ -1,2 +1,0 @@
-echo "Run this script with sudo"
-tshark -c 1000 -w /tmp/20150131_tshark.pcap
