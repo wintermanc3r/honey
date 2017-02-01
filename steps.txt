@@ -1,8 +1,0 @@
-Packages installed:
-sudo apt-get install emacs
-sudo apt-get install tshark
-sudo apt-get install git
-
-Steps followed:
-sudo tshark -D (list available network interfaces)
-sudo tshark -f "filter name"
