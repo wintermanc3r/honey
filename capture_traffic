@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo tshark -f "not port 22 and not src 172.89.89.47 and not src 172.89.89.2" > "test.txt"
