@@ -1,4 +1,5 @@
 # Holberton School - Honey Pot Project
+<em>2017, January 27 - ongoing</em>
 This repo is for a honeypot project, created with the aim of writing a white paper focusing on unsolicited internet traffic.
 This project is a joint effort between [Holberton School](https://www.holbertonschool.com/) staff, students, and mentors.
 
