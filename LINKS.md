@@ -10,3 +10,4 @@
 - [ ] [Looking for a Needle in a PCAP](http://blogs.cisco.com/security/finding-a-needle-in-a-pcap)
 - [ ] [List of well known ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 - [ ] [How to monitor system authentication logs](https://www.digitalocean.com/community/tutorials/how-to-monitor-system-authentication-logs-on-ubuntu)
+- [ ] [Analysis from 2 weeks of ssh brute force attacks](https://www.lightbluetouchpaper.org/2012/01/25/observations-from-two-weeks-of-ssh-brute-force-attacks/)
