@@ -2,7 +2,7 @@
 
 Total Packets Captured: 617694
 
-ALL Top Incoming Hits by IP
+ALL Top Hits by IP
 
 tshark -r log.pcap | cut -d '.' -f 2- | sed 's/  / /' | cut -d ' ' -f 2 | sort | uniq -c | sort -hr | head -42 >> statistics  # IP address by popularity 
 

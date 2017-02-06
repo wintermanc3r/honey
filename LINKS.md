@@ -9,3 +9,4 @@
 - [ ] [Filters cheatsheet](http://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf) - Cheatsheet
 - [ ] [Looking for a Needle in a PCAP](http://blogs.cisco.com/security/finding-a-needle-in-a-pcap)
 - [ ] [List of well known ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+- [ ] [How to monitor system authentication logs](https://www.digitalocean.com/community/tutorials/how-to-monitor-system-authentication-logs-on-ubuntu)
