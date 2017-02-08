@@ -1,2 +1,2 @@
 #!/bin/bash
-tshark -r log.pcap | grep -v -f skip_ip > bruteforce_filtered_log
+tshark -r log.pcap | grep -v -f brute_forcing_ips > bruteforce_filtered_log
