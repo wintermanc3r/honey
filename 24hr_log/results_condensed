@@ -1,0 +1,108 @@
+# Statistics for Wireshark Capture on Februrary 4, 2017
+
+Total Packets Captured: 617694
+
+ALL Top Hits by IP
+
+tshark -r log.pcap | cut -d '.' -f 2- | sed 's/  / /' | cut -d ' ' -f 2 | sort | uniq -c | sort -hr | head -42 >> statistics  # IP address by popularity 
+
+ 330261 172.89.89.47		# That's us!!
+  95326 58.218.204.66		# China Xuzhou Chinanet Jiangsu Province Network
+  85255 116.31.116.17		# China Foshan Chinanet Guangdong Province Network
+  61444 58.218.204.183		# China Xuzhou Chinanet Jiangsu Province Network
+  14339 172.89.89.2			# That's us!!
+   3197 119.249.54.71		# China Baoding China Unicom Heibei Province Network
+   2171 221.194.47.208		# China Baoding China Unicom Hebei Province Network
+   1930 121.18.238.109		# China Unicom Hebei province network
+   1753 221.194.44.195		# China Unicom Hebei Province Network
+   1672 221.194.44.231		# China Unicom Hebei Province Network
+   1528 121.18.238.104		# China Unicom Hebei province network
+   1437 221.194.44.224		# China Unicom Hebei Province Network
+   1140 112.85.42.124		# China Unicom Jiangsu province network
+    950 221.194.47.249		# China Unicom Hebei Province Network
+    885 121.18.238.114		# China Unicom Hebei province network
+    873 121.18.238.98		# China Unicom Hebei province network
+    856 54.146.71.23		# United States Ashburn Amazon Technologies Inc
+    841 221.194.47.224		# China Unicom Hebei Province Network
+    740 221.194.44.219		# China Unicom Hebei Province Network
+    506 91.189.88.152		# United Kingdom Douglas Canonical Ltd
+    146 138.68.14.38		# That's us!!
+    145 153.99.182.21		# China Unicom Jiangsu province network
+     78 89.39.75.170		# Romania Oltenita Expertnet Srl
+     57 172.89.89.1			# That's us!!
+     50 54.158.68.0			# United States Ashburn Amazon Technologies Inc 
+     50 210.209.93.40		# Hong Kong Hong Kong Nwt Crs Dynamic Pool
+     41 91.191.206.38		# AZ Azerbaijan
+     40 91.211.2.103		# RU Russian Federation
+     29 80.178.124.82		# IL Israel
+     29 185.169.229.182		# CH Switzerland
+     28 74.68.60.212		# US United States
+     28 112.217.150.112		# IL Israel
+     27 182.47.136.180		# Chinanet Shandong Province Network
+     27 140.119.48.13		# TW Taiwan; Republic of China (ROC)
+     27 118.255.205.246		# CHINANET Hunan  province network
+     26 115.204.21.209		# CHINANET-ZJ Hangzhou node network
+     25 71.6.146.185		# US United States
+     24 200.124.227.164		# EC Ecuador
+     23 79.185.167.48		# Neostrada Plus, Poznan, Poland
+     21 115.197.192.51		# CHINANET-ZJ Hangzhou node network
+
+Top hits by Protocol
+
+ tshark -r log.pcap| cut -d '.' -f 2- | sed 's/  / /' | cut -d ' ' -f 2-  | cut - d ' ' -f4 | sort | uniq -c | sort -hr >> statistics # Protocol
+
+ 309428 TCP
+ 255796 SSHv2
+  28713 DNS
+  15206 SSH
+   7674 ARP
+    330 ICMP
+    245 HTTP
+    114 DHCP
+     61 SSDP
+     37 UDP
+     28 SIP
+      9 NTP
+      3 SNMP
+      3 NBNS
+      2 Portmap
+      2 BACnet-APDU
+      1 XDMCP
+      1 TFTP
+      1 RIPv1
+      1 NAT-PMP
+      1 MDNS
+      1 L2TP
+      1 ISAKMP
+      1 IPMI/ATCA
+      1 CN/IP
+      1 CLDAP
+
+Top Hosts Connecting via TCP
+tshark -r log.pcap tcp.flags.syn eq 0x1 | cut -d '.' -f 2- | sed 's/  / /' | cut -d ' ' -f 2 | sort | uniq -c | sort -hr | head -24 >> statistics
+  17304 172.89.89.47
+   6329 58.218.204.66
+   4923 116.31.116.17
+   4055 58.218.204.183
+    185 119.249.54.71
+    127 221.194.47.208
+    105 121.18.238.109
+     93 221.194.44.195
+     88 221.194.44.231
+     86 121.18.238.104
+     78 89.39.75.170
+     73 221.194.44.224
+     57 112.85.42.124
+     49 121.18.238.114
+     48 121.18.238.98
+     47 221.194.47.249
+     47 221.194.47.224
+     42 221.194.44.219
+     41 91.191.206.38
+     28 74.68.60.212
+     27 140.119.48.13
+     20 91.211.2.103
+     16 185.169.229.182
+     15 77.81.176.10
+
+

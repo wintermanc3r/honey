@@ -1,0 +1,49 @@
+tshark -r log.pcap -q -z "io,phs"
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+eth                                      frames:617694 bytes:113391323
+  ip                                     frames:610020 bytes:113069015
+    tcp                                  frames:580702 bytes:109606296
+      ssh                                frames:287111 bytes:82887599
+        tcp.segments                     frames:14733 bytes:3919342
+      malformed                          frames:1657 bytes:424343
+      data                               frames:2 bytes:1132
+      http                               frames:245 bytes:137407
+        tcp.segments                     frames:3 bytes:9663
+        media                            frames:18 bytes:56258
+          tcp.segments                   frames:18 bytes:56258
+        data-text-lines                  frames:28 bytes:16081
+    udp                                  frames:28962 bytes:3401749
+      dns                                frames:28714 bytes:3335623
+      bootp                              frames:114 bytes:39843
+      sip                                frames:29 bytes:13083
+      nbns                               frames:3 bytes:276
+      bvlc                               frames:2 bytes:154
+        bacnet                           frames:2 bytes:154
+          bacapp                         frames:2 bytes:154
+      snmp                               frames:3 bytes:286
+      http                               frames:61 bytes:8289
+      rmcp                               frames:1 bytes:65
+        ipmi_session                     frames:1 bytes:65
+          ipmi                           frames:1 bytes:65
+      isakmp                             frames:1 bytes:106
+      tftp                               frames:1 bytes:56
+      l2tp                               frames:1 bytes:149
+      ntp                                frames:9 bytes:868
+      data                               frames:15 bytes:2450
+      xdmcp                              frames:1 bytes:49
+      nat-pmp                            frames:1 bytes:44
+      cldap                              frames:1 bytes:94
+      rpc                                frames:2 bytes:164
+        portmap                          frames:2 bytes:164
+      rip                                frames:1 bytes:66
+    icmp                                 frames:334 bytes:54910
+    gre                                  frames:22 bytes:6060
+      ip                                 frames:22 bytes:6060
+        udp                              frames:22 bytes:6060
+          data                           frames:9 bytes:5202
+          malformed                      frames:1 bytes:66
+  arp                                    frames:7674 bytes:322308
+===================================================================

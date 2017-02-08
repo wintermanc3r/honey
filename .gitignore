@@ -9,3 +9,6 @@ a.out
 auto-save-list
 tramp
 .\#*
+.*swp
+*~
+#*#
