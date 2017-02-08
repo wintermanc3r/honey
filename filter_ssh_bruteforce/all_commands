@@ -1,0 +1,3 @@
+head -50 bruteforce_filtered_log > first50_bruteforce_filtered_log
+tail -50 bruteforce_filtered_log > last50_bruteforce_filtered_log
+zip
