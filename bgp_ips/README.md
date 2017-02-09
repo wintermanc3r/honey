@@ -46,3 +46,13 @@ Output format:
 
 - number of requests
 - ASN
+
+_Note_: There were 4 IPs we could not get an ASN for, with our methodology, in our pcap file:
+
+```
+$ grep "?a" ip_asn.txt
+1 158.250.235.16 ?a
+1 227.89.91.227 ?a
+1 240.113.214.171 ?a
+1 250.98.21.89 ?a
+```
