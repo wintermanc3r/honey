@@ -1,0 +1,5785 @@
+
+.-[ 79.129.130.147/22781 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 79.129.130.147/22781
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:19181,0:mss::0
+|
+`----
+--
+
+.-[ 186.39.26.241/52431 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 186.39.26.241/52431
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1452:28149,0:mss::0
+|
+`----
+--
+
+.-[ 60.54.83.43/36753 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 60.54.83.43/36753
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1360:41657,0:mss::0
+|
+`----
+--
+
+.-[ 14.191.32.31/24417 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 14.191.32.31/24417
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 122.164.163.213/45540 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 122.164.163.213/45540
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1390:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 122.173.162.147/2769 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 122.173.162.147/2769
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1360:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 115.79.153.5/22861 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 115.79.153.5/22861
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 80.178.124.82/54698 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 80.178.124.82/54698
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy tos:0x28
+| raw_sig  = 4:45+19:0:1360:61834,0:mss::0
+|
+`----
+--
+
+.-[ 80.178.124.82/36694 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 80.178.124.82/36694
+| os       = Linux 2.2.x-3.x (no timestamps)
+| dist     = 19
+| params   = generic tos:0x08
+| raw_sig  = 4:45+19:0:1360:mss*10,6:mss,nop,nop,sok,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 83.40.89.191/40203 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 83.40.89.191/40203
+| os       = Linux 2.4.x
+| dist     = 21
+| params   = none
+| raw_sig  = 4:43+21:0:1452:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 177.134.131.137/25105 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.134.131.137/25105
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1420:17969,0:mss::0
+|
+`----
+--
+
+.-[ 116.102.60.93/18628 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 116.102.60.93/18628
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 221.127.192.104/17820 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 221.127.192.104/17820
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1452:41749,0:mss::0
+|
+`----
+--
+
+.-[ 71.40.142.102/44589 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 71.40.142.102/44589
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy tos:0x10
+| raw_sig  = 4:38+26:0:1460:46389,0:mss::0
+|
+`----
+--
+
+.-[ 86.124.66.4/11459 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 86.124.66.4/11459
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 50.247.214.162/48812 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 50.247.214.162/48812
+| os       = Linux 2.4.x
+| dist     = 23
+| params   = none
+| raw_sig  = 4:41+23:0:1460:mss*4,2:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 189.48.172.210/19983 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 189.48.172.210/19983
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:30783,0:mss::0
+|
+`----
+--
+
+.-[ 113.170.140.90/33514 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 113.170.140.90/33514
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:37114,0:mss::0
+|
+`----
+--
+
+.-[ 42.117.66.224/38276 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 42.117.66.224/38276
+| os       = Linux 2.4.x
+| dist     = 21
+| params   = none
+| raw_sig  = 4:43+21:0:1412:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 113.53.69.210/3885 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.53.69.210/3885
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:30805,0:mss::0
+|
+`----
+--
+
+.-[ 189.49.127.134/42093 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 189.49.127.134/42093
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:20869,0:mss::0
+|
+`----
+--
+
+.-[ 176.40.124.5/5007 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 176.40.124.5/5007
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:2199,0:mss::0
+|
+`----
+--
+
+.-[ 123.21.97.176/49240 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 123.21.97.176/49240
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 59.103.164.158/26101 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 59.103.164.158/26101
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 85.105.220.43/33459 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 85.105.220.43/33459
+| os       = Linux 2.4.x
+| dist     = 24
+| params   = none
+| raw_sig  = 4:40+24:0:1452:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 171.226.56.7/1574 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 171.226.56.7/1574
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.232.90.181/48577 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 88.232.90.181/48577
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:228+27:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 186.213.32.246/25091 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 186.213.32.246/25091
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1452:60656,0:mss::0
+|
+`----
+--
+
+.-[ 92.249.143.63/35451 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 92.249.143.63/35451
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:229+26:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 86.35.25.249/20918 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 86.35.25.249/20918
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1412:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 116.101.219.147/26034 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 116.101.219.147/26034
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 124.43.103.87/61671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 124.43.103.87/61671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 27.74.107.91/50957 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.74.107.91/50957
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:63541,0:mss::0
+|
+`----
+--
+
+.-[ 79.187.240.189/62665 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 79.187.240.189/62665
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1460:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 177.71.33.179/40608 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.71.33.179/40608
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1360:43152,0:mss::0
+|
+`----
+--
+
+.-[ 42.118.177.4/11214 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 42.118.177.4/11214
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1440:12502,0:mss::0
+|
+`----
+--
+
+.-[ 27.74.107.91/50957 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.74.107.91/50957
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:63541,0:mss::0
+|
+`----
+--
+
+.-[ 201.29.156.241/4006 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 201.29.156.241/4006
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1440:7606,0:mss::0
+|
+`----
+--
+
+.-[ 60.185.161.239/39255 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 60.185.161.239/39255
+| os       = Linux 2.4.x
+| dist     = 22
+| params   = tos:0x08
+| raw_sig  = 4:42+22:0:1452:mss*4,2:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 27.74.107.91/50957 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.74.107.91/50957
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:63541,0:mss::0
+|
+`----
+--
+
+.-[ 202.47.119.42/12287 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 202.47.119.42/12287
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1440:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 37.156.25.175/2722 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 37.156.25.175/2722
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 29
+| params   = generic fuzzy
+| raw_sig  = 4:226+29:0:1460:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 77.230.51.4/16466 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 77.230.51.4/16466
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1420:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 191.250.1.41/1582 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 191.250.1.41/1582
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 14.184.95.115/33627 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.184.95.115/33627
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 14.166.103.147/40557 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 14.166.103.147/40557
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:34165,0:mss::0
+|
+`----
+--
+
+.-[ 171.226.240.80/40862 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 171.226.240.80/40862
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 27.109.246.107/38037 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 27.109.246.107/38037
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 17
+| params   = generic fuzzy
+| raw_sig  = 4:238+17:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 189.5.212.114/56442 -> 172.89.89.47/80 (syn) ]-
+|
+| client   = 189.5.212.114/56442
+| os       = Linux 2.4.x-2.6.x
+| dist     = 19
+| params   = generic
+| raw_sig  = 4:45+19:0:1460:mss*4,4:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 189.5.212.114/39823 -> 172.89.89.47/8080 (syn) ]-
+|
+| client   = 189.5.212.114/39823
+| os       = Linux 2.4.x-2.6.x
+| dist     = 20
+| params   = generic
+| raw_sig  = 4:44+20:0:1460:mss*4,4:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 14.188.179.127/52308 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.188.179.127/52308
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 14.183.37.76/13454 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.183.37.76/13454
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 116.108.54.147/12641 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 116.108.54.147/12641
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 177.75.159.1/3790 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 177.75.159.1/3790
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy tos:0x22
+| raw_sig  = 4:235+20:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.248.112.168/32605 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.248.112.168/32605
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1452:27981,0:mss::0
+|
+`----
+--
+
+.-[ 189.59.124.6/59516 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 189.59.124.6/59516
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1420:64108,0:mss::0
+|
+`----
+--
+
+.-[ 171.246.89.173/30285 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 171.246.89.173/30285
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 200.63.124.20/1282 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 200.63.124.20/1282
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 177.17.220.79/3250 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 177.17.220.79/3250
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1452:13194,0:mss::0
+|
+`----
+--
+
+.-[ 85.105.156.190/57698 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 85.105.156.190/57698
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 61.175.246.22/42551 -> 172.89.89.47/2222 (syn) ]-
+|
+| client   = 61.175.246.22/42551
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1460:49367,0:mss::0
+|
+`----
+--
+
+.-[ 82.81.72.6/20650 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 82.81.72.6/20650
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy tos:0x02
+| raw_sig  = 4:233+22:0:1420:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 31.40.98.198/46767 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 31.40.98.198/46767
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 29
+| params   = generic fuzzy
+| raw_sig  = 4:35+29:0:1160:54215,0:mss::0
+|
+`----
+--
+
+.-[ 120.60.131.25/50479 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 120.60.131.25/50479
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 115.72.235.139/20073 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 115.72.235.139/20073
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:29009,0:mss::0
+|
+`----
+--
+
+.-[ 183.9.219.222/6717 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 183.9.219.222/6717
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 177.159.213.154/28917 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.159.213.154/28917
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1452:24029,0:mss::0
+|
+`----
+--
+
+.-[ 201.208.21.57/19800 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.208.21.57/19800
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:22080,0:mss::0
+|
+`----
+--
+
+.-[ 201.208.21.57/19800 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.208.21.57/19800
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:22080,0:mss::0
+|
+`----
+--
+
+.-[ 201.208.21.57/19800 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.208.21.57/19800
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:22080,0:mss::0
+|
+`----
+--
+
+.-[ 201.208.21.57/19800 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.208.21.57/19800
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:22080,0:mss::0
+|
+`----
+--
+
+.-[ 201.208.21.57/19800 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.208.21.57/19800
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:22080,0:mss::0
+|
+`----
+--
+
+.-[ 201.208.21.57/19800 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 201.208.21.57/19800
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1460:22080,0:mss::0
+|
+`----
+--
+
+.-[ 119.153.100.176/30906 -> 172.89.89.47/19058 (syn) ]-
+|
+| client   = 119.153.100.176/30906
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1360:4034,0:mss::0
+|
+`----
+--
+
+.-[ 186.79.78.234/30711 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 186.79.78.234/30711
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1440:25361,0:mss::0
+|
+`----
+--
+
+.-[ 189.205.154.250/11456 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 189.205.154.250/11456
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 183.240.19.35/33177 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 183.240.19.35/33177
+| os       = Linux 2.2.x-3.x
+| dist     = 32
+| params   = generic tos:0x01
+| raw_sig  = 4:32+0:0:1448:5808,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 117.223.148.181/27422 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 117.223.148.181/27422
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1420:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 116.104.33.78/6036 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 116.104.33.78/6036
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:1412,0:mss::0
+|
+`----
+--
+
+.-[ 182.180.164.92/19092 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 182.180.164.92/19092
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 83.10.148.189/15868 -> 172.89.89.47/7547 (syn) ]-
+|
+| client   = 83.10.148.189/15868
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 212.156.209.21/27518 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 212.156.209.21/27518
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 103.220.212.145/8165 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 103.220.212.145/8165
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:230+25:0:1390:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 116.110.200.210/3125 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 116.110.200.210/3125
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:37+27:0:1452:5933,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 95.47.218.124/29547 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 95.47.218.124/29547
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 14.169.69.227/1025 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.169.69.227/1025
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 114.47.16.9/8867 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 114.47.16.9/8867
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1452:13871,0:mss::0
+|
+`----
+--
+
+.-[ 14.185.218.46/29918 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 14.185.218.46/29918
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:33078,0:mss::0
+|
+`----
+--
+
+.-[ 83.21.206.223/28486 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 83.21.206.223/28486
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:2606,0:mss::0
+|
+`----
+--
+
+.-[ 78.188.47.91/42895 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.188.47.91/42895
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 14.189.129.171/55153 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.189.129.171/55153
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 49.48.129.84/22878 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 49.48.129.84/22878
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1360:28526,0:mss::0
+|
+`----
+--
+
+.-[ 111.201.167.202/27711 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 111.201.167.202/27711
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:536:58282,0:mss::0
+|
+`----
+--
+
+.-[ 82.78.238.40/3508 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 82.78.238.40/3508
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1440:58180,0:mss::0
+|
+`----
+--
+
+.-[ 182.176.79.251/14113 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 182.176.79.251/14113
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1360:273,0:mss::0
+|
+`----
+--
+
+.-[ 89.122.137.199/37185 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.122.137.199/37185
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1412:33617,0:mss::0
+|
+`----
+--
+
+.-[ 122.177.175.201/26415 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 122.177.175.201/26415
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1390:37575,0:mss::0
+|
+`----
+--
+
+.-[ 85.96.181.239/37720 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 85.96.181.239/37720
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1452:48752,0:mss::0
+|
+`----
+--
+
+.-[ 78.188.196.71/24080 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.188.196.71/24080
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:17672,0:mss::0
+|
+`----
+--
+
+.-[ 177.17.223.95/45961 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.17.223.95/45961
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1420:13426,0:mss::0
+|
+`----
+--
+
+.-[ 109.103.253.200/32629 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 109.103.253.200/32629
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1412:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 139.162.73.19/57878 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 139.162.73.19/57878
+| os       = Linux 2.2.x-3.x
+| dist     = 17
+| params   = generic
+| raw_sig  = 4:47+17:0:1460:mss*2,7:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 116.252.109.40/2731 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 116.252.109.40/2731
+| os       = Linux 2.4.x
+| dist     = 22
+| params   = none
+| raw_sig  = 4:42+22:0:1452:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 152.238.110.203/39635 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 152.238.110.203/39635
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:26163,0:mss::0
+|
+`----
+--
+
+.-[ 67.242.219.15/10478 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 67.242.219.15/10478
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy tos:0x10
+| raw_sig  = 4:43+21:0:1460:3278,0:mss::0
+|
+`----
+--
+
+.-[ 88.247.186.70/34897 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.247.186.70/34897
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:228+27:0:1412:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 195.32.32.117/37185 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 195.32.32.117/37185
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 17
+| params   = generic fuzzy
+| raw_sig  = 4:47+17:0:1400:33617,0:mss::0
+|
+`----
+--
+
+.-[ 177.40.50.247/57953 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.40.50.247/57953
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.248.84.211/33335 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.248.84.211/33335
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1452:46087,0:mss::0
+|
+`----
+--
+
+.-[ 79.130.59.137/52511 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 79.130.59.137/52511
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 105.224.103.145/34807 -> 172.89.89.47/23231 (syn) ]-
+|
+| client   = 105.224.103.145/34807
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy tos:0x05
+| raw_sig  = 4:41+23:0:1452:47311,0:mss::0
+|
+`----
+--
+
+.-[ 46.185.156.110/15562 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 46.185.156.110/15562
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 180.248.59.167/41737 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 180.248.59.167/41737
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:230+25:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 212.164.223.248/28154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 212.164.223.248/28154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 17
+| params   = generic fuzzy
+| raw_sig  = 4:238+17:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 179.176.73.153/10261 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 179.176.73.153/10261
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1420:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 179.54.230.120/1568 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 179.54.230.120/1568
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:229+26:0:1452:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 115.76.177.185/40183 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 115.76.177.185/40183
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 175.100.5.241/64617 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 175.100.5.241/64617
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy tos:0x10
+| raw_sig  = 4:232+23:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 85.105.255.198/44405 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 85.105.255.198/44405
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:37+27:0:1440:46701,0:mss::0
+|
+`----
+--
+
+.-[ 212.74.201.16/27113 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 212.74.201.16/27113
+| os       = Linux 2.4.x
+| dist     = 27
+| params   = tos:0x18
+| raw_sig  = 4:37+27:0:1460:mss*4,2:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 45.64.213.238/38154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 45.64.213.238/38154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 123.22.174.255/50484 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.22.174.255/50484
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:59420,0:mss::0
+|
+`----
+--
+
+.-[ 115.76.83.113/58708 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 115.76.83.113/58708
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 161.10.247.198/3606 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 161.10.247.198/3606
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:230+25:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 223.229.208.112/28944 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 223.229.208.112/28944
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:46+18:0:1452:25344,0:mss::0
+|
+`----
+--
+
+.-[ 171.232.248.229/3514 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 171.232.248.229/3514
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1402:5794,0:mss::0
+|
+`----
+--
+
+.-[ 182.68.135.188/17795 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 182.68.135.188/17795
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1390:31419,0:mss::0
+|
+`----
+--
+
+.-[ 86.35.33.228/37127 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 86.35.33.228/37127
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1412:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 177.38.15.50/10309 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 177.38.15.50/10309
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1412:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 191.248.242.240/11570 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 191.248.242.240/11570
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 177.92.40.68/46937 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.92.40.68/46937
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:44097,0:mss::0
+|
+`----
+--
+
+.-[ 171.232.248.229/3514 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 171.232.248.229/3514
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1402:5794,0:mss::0
+|
+`----
+--
+
+.-[ 201.86.35.236/46667 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.86.35.236/46667
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:42075,0:mss::0
+|
+`----
+--
+
+.-[ 151.250.213.246/48403 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 151.250.213.246/48403
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 28
+| params   = generic fuzzy
+| raw_sig  = 4:227+28:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 176.152.148.29/9214 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 176.152.148.29/9214
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 17
+| params   = generic fuzzy
+| raw_sig  = 4:238+17:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 179.179.134.206/49635 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 179.179.134.206/49635
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 62.244.196.50/38082 -> 172.89.89.47/80 (syn) ]-
+|
+| client   = 62.244.196.50/38082
+| os       = Linux 2.6.x
+| dist     = 18
+| params   = none
+| raw_sig  = 4:46+18:0:1460:mss*4,7:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 62.244.196.50/60613 -> 172.89.89.47/8080 (syn) ]-
+|
+| client   = 62.244.196.50/60613
+| os       = Linux 2.6.x
+| dist     = 17
+| params   = none
+| raw_sig  = 4:47+17:0:1460:mss*4,7:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 179.186.90.230/61785 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 179.186.90.230/61785
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1420:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 116.21.105.123/22496 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 116.21.105.123/22496
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 191.250.51.36/11121 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 191.250.51.36/11121
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1420:28961,0:mss::0
+|
+`----
+--
+
+.-[ 78.188.129.153/20722 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.188.129.153/20722
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 98.14.88.159/16032 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 98.14.88.159/16032
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy tos:0x10
+| raw_sig  = 4:233+22:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 14.164.74.102/38744 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.164.74.102/38744
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 123.16.145.156/25108 -> 172.89.89.47/23231 (syn) ]-
+|
+| client   = 123.16.145.156/25108
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:20284,0:mss::0
+|
+`----
+--
+
+.-[ 113.175.94.78/39750 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 113.175.94.78/39750
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:58678,0:mss::0
+|
+`----
+--
+
+.-[ 78.187.173.202/52557 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.187.173.202/52557
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1440:57445,0:mss::0
+|
+`----
+--
+
+.-[ 88.234.80.208/49671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.234.80.208/49671
+| os       = Linux 2.2.x-3.x (no timestamps)
+| dist     = 23
+| params   = generic
+| raw_sig  = 4:41+23:0:1452:mss*10,7:mss,nop,nop,sok,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 201.50.119.7/14946 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.50.119.7/14946
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:5962,0:mss::0
+|
+`----
+--
+
+.-[ 171.226.70.34/13216 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 171.226.70.34/13216
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 201.50.119.7/14946 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.50.119.7/14946
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:5962,0:mss::0
+|
+`----
+--
+
+.-[ 201.50.119.7/14946 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 201.50.119.7/14946
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:5962,0:mss::0
+|
+`----
+--
+
+.-[ 188.235.129.11/48303 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 188.235.129.11/48303
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy tos:0x04
+| raw_sig  = 4:44+20:0:1452:29278,0:mss::0
+|
+`----
+--
+
+.-[ 83.31.255.75/35794 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 83.31.255.75/35794
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 200.89.103.118/29654 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 200.89.103.118/29654
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:230+25:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 123.24.124.17/31789 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.24.124.17/31789
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 113.22.189.14/30436 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.22.189.14/30436
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:33548,0:mss::0
+|
+`----
+--
+
+.-[ 109.165.216.16/8351 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 109.165.216.16/8351
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 89.121.157.98/20706 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 89.121.157.98/20706
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1412:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 188.140.94.169/33374 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 188.140.94.169/33374
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1420:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.22.178/47671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.22.178/47671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:38687,0:mss::0
+|
+`----
+--
+
+.-[ 115.76.222.245/57460 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 115.76.222.245/57460
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 78.130.138.94/8057 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 78.130.138.94/8057
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 34
+| params   = generic fuzzy tos:0x12
+| raw_sig  = 4:221+34:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 188.125.63.64/45284 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 188.125.63.64/45284
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 115.197.192.51/37711 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 115.197.192.51/37711
+| os       = Linux 2.4.x
+| dist     = 23
+| params   = none
+| raw_sig  = 4:41+23:0:1452:mss*4,2:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 113.190.114.52/53005 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.190.114.52/53005
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:54293,0:mss::0
+|
+`----
+--
+
+.-[ 113.184.183.39/39770 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.184.183.39/39770
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:32834,0:mss::0
+|
+`----
+--
+
+.-[ 189.47.164.102/43116 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 189.47.164.102/43116
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 178.42.162.119/42380 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 178.42.162.119/42380
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:47004,0:mss::0
+|
+`----
+--
+
+.-[ 1.22.90.211/38829 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 1.22.90.211/38829
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 115.72.233.247/17093 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 115.72.233.247/17093
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:23005,0:mss::0
+|
+`----
+--
+
+.-[ 171.228.181.153/12952 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 171.228.181.153/12952
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 46.206.227.112/32640 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 46.206.227.112/32640
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 17
+| params   = generic fuzzy
+| raw_sig  = 4:47+17:0:1460:35432,0:mss::0
+|
+`----
+--
+
+.-[ 118.200.131.145/24197 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 118.200.131.145/24197
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1460:8437,0:mss::0
+|
+`----
+--
+
+.-[ 31.154.86.59/40009 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 31.154.86.59/40009
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy tos:0x08
+| raw_sig  = 4:235+20:0:1360:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 187.133.38.36/51784 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 187.133.38.36/51784
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 17
+| params   = generic fuzzy
+| raw_sig  = 4:47+17:0:1452:9400,0:mss::0
+|
+`----
+--
+
+.-[ 212.126.115.80/58944 -> 172.89.89.47/80 (syn) ]-
+|
+| client   = 212.126.115.80/58944
+| os       = Linux 2.2.x-3.x
+| dist     = 24
+| params   = generic tos:0x02
+| raw_sig  = 4:40+24:0:1360:5760,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 123.19.13.52/30393 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 123.19.13.52/30393
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 113.175.242.249/8401 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.175.242.249/8401
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:22441,0:mss::0
+|
+`----
+--
+
+.-[ 186.219.176.51/28664 -> 172.89.89.47/7547 (syn) ]-
+|
+| client   = 186.219.176.51/28664
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1440:59395,0:mss::0
+|
+`----
+--
+
+.-[ 14.174.11.135/47876 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.174.11.135/47876
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 83.66.102.252/53132 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 83.66.102.252/53132
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 29
+| params   = generic fuzzy
+| raw_sig  = 4:226+29:0:1400:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 31.168.151.172/12733 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 31.168.151.172/12733
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy tos:0x02
+| raw_sig  = 4:42+22:0:1420:10917,0:mss::0
+|
+`----
+--
+
+.-[ 60.239.96.63/55036 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 60.239.96.63/55036
+| os       = Linux 2.2.x-3.x (no timestamps)
+| dist     = 25
+| params   = generic
+| raw_sig  = 4:39+25:0:1398:mss*20,7:mss,nop,nop,sok,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 95.38.20.190/61256 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 95.38.20.190/61256
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:229+26:0:1320:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 177.22.91.214/14473 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.22.91.214/14473
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1452:54905,0:mss::0
+|
+`----
+--
+
+.-[ 113.174.61.254/34355 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.174.61.254/34355
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 78.178.101.175/37555 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.178.101.175/37555
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:228+27:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 101.99.12.116/54925 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 101.99.12.116/54925
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:230+25:0:1402:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 1.54.15.141/65043 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 1.54.15.141/65043
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 83.8.54.230/49844 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 83.8.54.230/49844
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 176.241.93.83/37101 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 176.241.93.83/37101
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1418:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 5.13.203.213/13679 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 5.13.203.213/13679
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 187.192.1.12/54007 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 187.192.1.12/54007
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1412:49383,0:mss::0
+|
+`----
+--
+
+.-[ 200.193.249.38/3751 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 200.193.249.38/3751
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1452:5567,0:mss::0
+|
+`----
+--
+
+.-[ 123.26.231.60/39353 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 123.26.231.60/39353
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 180.141.138.12/19959 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 180.141.138.12/19959
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1388:55324,0:mss::0
+|
+`----
+--
+
+.-[ 94.71.90.210/53948 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 94.71.90.210/53948
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:51620,0:mss::0
+|
+`----
+--
+
+.-[ 200.124.227.164/35738 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 200.124.227.164/35738
+| os       = Linux 2.4.x
+| dist     = 21
+| params   = none
+| raw_sig  = 4:43+21:0:1460:mss*4,2:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 178.166.83.213/44990 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 178.166.83.213/44990
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1420:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 79.185.167.48/24249 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 79.185.167.48/24249
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:135,0:mss::0
+|
+`----
+--
+
+.-[ 79.185.167.48/50607 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 79.185.167.48/50607
+| os       = Linux 2.4.x-2.6.x
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:mss*4,4:mss,sok,ts,nop,ws::0
+|
+`----
+--
+
+.-[ 178.222.107.168/64668 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 178.222.107.168/64668
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 118.71.49.178/61191 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 118.71.49.178/61191
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 211.117.188.155/49586 -> 172.89.89.47/4028 (syn) ]-
+|
+| client   = 211.117.188.155/49586
+| os       = Linux 2.2.x-3.x
+| dist     = 24
+| params   = generic
+| raw_sig  = 4:40+24:0:1460:mss*20,6:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 78.96.226.139/20338 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 78.96.226.139/20338
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 93.116.222.140/64715 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 93.116.222.140/64715
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1460:32100,0:mss::0
+|
+`----
+--
+
+.-[ 58.187.121.216/44437 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 58.187.121.216/44437
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 171.79.104.122/28188 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 171.79.104.122/28188
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1390:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 36.68.60.167/57810 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 36.68.60.167/57810
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 122.169.109.90/63843 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 122.169.109.90/63843
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1460:34579,0:mss::0
+|
+`----
+--
+
+.-[ 5.102.211.114/42640 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 5.102.211.114/42640
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy tos:0x02
+| raw_sig  = 4:39+25:0:1400:29561,0:mss::0
+|
+`----
+--
+
+.-[ 106.51.212.157/15153 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 106.51.212.157/15153
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 29
+| params   = generic fuzzy
+| raw_sig  = 4:226+29:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 81.183.134.118/47487 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 81.183.134.118/47487
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:56343,0:mss::0
+|
+`----
+--
+
+.-[ 82.161.249.204/2865 -> 172.89.89.47/4028 (syn) ]-
+|
+| client   = 82.161.249.204/2865
+| os       = Linux 2.4.x
+| dist     = 21
+| params   = tos:0x08
+| raw_sig  = 4:43+21:0:1452:mss*4,2:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 14.188.176.203/13939 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.188.176.203/13939
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 41.39.143.133/30106 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 41.39.143.133/30106
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1432:22706,0:mss::0
+|
+`----
+--
+
+.-[ 171.248.216.202/2279 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 171.248.216.202/2279
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 117.1.118.159/12539 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 117.1.118.159/12539
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 27.36.60.231/41953 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.36.60.231/41953
+| os       = Linux 2.4.x
+| dist     = 29
+| params   = none
+| raw_sig  = 4:35+29:0:1460:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 27.36.60.231/41953 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.36.60.231/41953
+| os       = Linux 2.4.x
+| dist     = 29
+| params   = none
+| raw_sig  = 4:35+29:0:1460:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 191.81.147.161/31984 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 191.81.147.161/31984
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1452:28384,0:mss::0
+|
+`----
+--
+
+.-[ 189.70.69.221/33317 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 189.70.69.221/33317
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:36917,0:mss::0
+|
+`----
+--
+
+.-[ 74.12.51.79/6701 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.12.51.79/6701
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:64981,0:mss::0
+|
+`----
+--
+
+.-[ 64.89.171.91/39901 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 64.89.171.91/39901
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:536:61220,0:mss::0
+|
+`----
+--
+
+.-[ 179.180.17.23/1352 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 179.180.17.23/1352
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1420:61600,0:mss::0
+|
+`----
+--
+
+.-[ 195.138.68.83/24230 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 195.138.68.83/24230
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 36.77.38.254/5260 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 36.77.38.254/5260
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:229+26:0:1360:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 182.113.224.223/23084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 182.113.224.223/23084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1400:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 117.222.28.231/41374 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 117.222.28.231/41374
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 30
+| params   = generic fuzzy
+| raw_sig  = 4:225+30:0:1360:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 89.122.227.65/59435 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 89.122.227.65/59435
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1412:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 12.191.40.2/36699 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 12.191.40.2/36699
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:536:41587,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 14.162.78.81/20204 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 14.162.78.81/20204
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1452:60259,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 77.81.176.10/40084 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 77.81.176.10/40084
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:60785,0:mss::0
+|
+`----
+--
+
+.-[ 152.172.168.42/25090 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 152.172.168.42/25090
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1440:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 78.189.19.2/63435 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 78.189.19.2/63435
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 189.160.190.158/33124 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 189.160.190.158/33124
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1412:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 118.100.161.167/18410 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 118.100.161.167/18410
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 177.17.140.68/29600 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 177.17.140.68/29600
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.247.57.53/3699 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.247.57.53/3699
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1452:7267,0:mss::0
+|
+`----
+--
+
+.-[ 88.247.57.53/3699 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.247.57.53/3699
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1452:7267,0:mss::0
+|
+`----
+--
+
+.-[ 14.188.125.24/33031 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.188.125.24/33031
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.247.57.53/3699 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.247.57.53/3699
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1452:7267,0:mss::0
+|
+`----
+--
+
+.-[ 85.105.244.239/17227 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 85.105.244.239/17227
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 82.78.176.109/46284 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 82.78.176.109/46284
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1440:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 88.247.57.53/3699 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.247.57.53/3699
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1452:7267,0:mss::0
+|
+`----
+--
+
+.-[ 117.3.196.91/20397 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 117.3.196.91/20397
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:230+25:0:1398:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.247.57.53/3699 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.247.57.53/3699
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:38+26:0:1452:7267,0:mss::0
+|
+`----
+--
+
+.-[ 66.102.6.144/33835 -> 172.89.89.47/80 (syn) ]-
+|
+| client   = 66.102.6.144/33835
+| os       = Linux 2.2.x-3.x
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:37+27:0:1380:mss*31,7:mss,sok,ts,nop,ws::0
+|
+`----
+--
+
+.-[ 188.25.194.186/16144 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 188.25.194.186/16144
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1440:9224,0:mss::0
+|
+`----
+--
+
+.-[ 94.249.60.52/37494 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 94.249.60.52/37494
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:35182,0:mss::0
+|
+`----
+--
+
+.-[ 14.176.150.238/40393 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 14.176.150.238/40393
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1452:41713,0:mss::0
+|
+`----
+--
+
+.-[ 201.4.128.174/54952 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 201.4.128.174/54952
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 78.110.64.12/14849 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 78.110.64.12/14849
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1360:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 179.133.35.173/19785 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 179.133.35.173/19785
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:228+27:0:1424:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 116.111.83.42/13017 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 116.111.83.42/13017
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 59.92.116.228/28359 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 59.92.116.228/28359
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1390:31959,0:mss::0
+|
+`----
+--
+
+.-[ 14.171.189.100/41283 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.171.189.100/41283
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 78.188.73.221/7909 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.188.73.221/7909
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 28
+| params   = generic fuzzy
+| raw_sig  = 4:227+28:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 189.76.25.39/33507 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 189.76.25.39/33507
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 171.231.5.173/42444 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 171.231.5.173/42444
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:228+27:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 14.186.152.238/2984 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.186.152.238/2984
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 171.249.224.144/54777 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 171.249.224.144/54777
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 189.58.171.118/64885 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 189.58.171.118/64885
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1452:10396,0:mss::0
+|
+`----
+--
+
+.-[ 178.239.127.170/42840 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 178.239.127.170/42840
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 177.132.166.51/54928 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 177.132.166.51/54928
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1420:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 180.94.136.85/34671 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 180.94.136.85/34671
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 201.150.18.66/38018 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 201.150.18.66/38018
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 221.12.150.10/3081 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 221.12.150.10/3081
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:29305,0:mss::0
+|
+`----
+--
+
+.-[ 179.190.192.140/2277 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 179.190.192.140/2277
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy tos:0x05
+| raw_sig  = 4:234+21:0:1460:mss*10,0:mss:ecn:0
+|
+`----
+--
+
+.-[ 202.71.19.77/60680 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 202.71.19.77/60680
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 29
+| params   = generic fuzzy
+| raw_sig  = 4:35+29:0:1440:63740,0:mss::0
+|
+`----
+--
+
+.-[ 111.242.117.61/59534 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 111.242.117.61/59534
+| os       = Linux 2.2.x-3.x (no timestamps)
+| dist     = 23
+| params   = generic
+| raw_sig  = 4:41+23:0:1412:mtu*10,2:mss,nop,nop,sok,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 85.99.247.72/50718 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 85.99.247.72/50718
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 28
+| params   = generic fuzzy
+| raw_sig  = 4:227+28:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 207.204.227.131/45536 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 207.204.227.131/45536
+| os       = Linux 2.4.x
+| dist     = 22
+| params   = none
+| raw_sig  = 4:42+22:0:1350:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 113.162.35.235/10963 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.162.35.235/10963
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 95.165.167.195/49688 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 95.165.167.195/49688
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy tos:0x08
+| raw_sig  = 4:44+20:0:1452:48232,0:mss::0
+|
+`----
+--
+
+.-[ 41.41.196.187/43198 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 41.41.196.187/43198
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1432:47790,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 116.102.18.110/31800 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 116.102.18.110/31800
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 79.173.251.213/4738 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 79.173.251.213/4738
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:30698,0:mss::0
+|
+`----
+--
+
+.-[ 79.173.251.213/4738 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 79.173.251.213/4738
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:30698,0:mss::0
+|
+`----
+--
+
+.-[ 116.99.148.128/12189 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 116.99.148.128/12189
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 26
+| params   = generic fuzzy
+| raw_sig  = 4:229+26:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 74.68.60.212/41154 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 74.68.60.212/41154
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:43+21:0:1460:55226,0:mss::0
+|
+`----
+--
+
+.-[ 78.173.119.234/59475 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.173.119.234/59475
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 223.198.213.184/17456 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 223.198.213.184/17456
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1440:24592,0:mss::0
+|
+`----
+--
+
+.-[ 59.181.97.24/1041 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 59.181.97.24/1041
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1360:12833,0:mss::0
+|
+`----
+--
+
+.-[ 14.190.216.176/10329 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 14.190.216.176/10329
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 18
+| params   = generic fuzzy
+| raw_sig  = 4:237+18:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.242.158.149/58337 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 88.242.158.149/58337
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:30218,0:mss::0
+|
+`----
+--
+
+.-[ 59.126.53.224/55454 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 59.126.53.224/55454
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 88.242.158.149/58337 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.242.158.149/58337
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:30218,0:mss::0
+|
+`----
+--
+
+.-[ 88.242.158.149/58337 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.242.158.149/58337
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:30218,0:mss::0
+|
+`----
+--
+
+.-[ 88.242.158.149/58337 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.242.158.149/58337
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:30218,0:mss::0
+|
+`----
+--
+
+.-[ 88.242.158.149/58337 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.242.158.149/58337
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:30218,0:mss::0
+|
+`----
+--
+
+.-[ 75.89.65.249/22688 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 75.89.65.249/22688
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1452:51232,0:mss::0
+|
+`----
+--
+
+.-[ 80.217.12.170/48971 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 80.217.12.170/48971
+| os       = Linux 2.4.x
+| dist     = 20
+| params   = none
+| raw_sig  = 4:44+20:0:1460:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 80.217.12.170/48971 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 80.217.12.170/48971
+| os       = Linux 2.4.x
+| dist     = 20
+| params   = none
+| raw_sig  = 4:44+20:0:1460:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 39.44.36.58/38212 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 39.44.36.58/38212
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:230+25:0:1360:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 95.23.167.181/50039 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 95.23.167.181/50039
+| os       = Linux 2.4.x
+| dist     = 18
+| params   = none
+| raw_sig  = 4:46+18:0:1452:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 78.187.230.143/26048 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 78.187.230.143/26048
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1360:49231,0:mss::0
+|
+`----
+--
+
+.-[ 83.221.206.31/42028 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 83.221.206.31/42028
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.122.209.91/10653 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.122.209.91/10653
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:44+20:0:1412:8109,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 177.106.6.151/32002 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 177.106.6.151/32002
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1440:47058,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 85.240.138.155/59189 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 85.240.138.155/59189
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 177.23.224.59/45601 -> 172.89.89.47/80 (syn) ]-
+|
+| client   = 177.23.224.59/45601
+| os       = Linux 2.4.x
+| dist     = 24
+| params   = none
+| raw_sig  = 4:40+24:0:1440:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 79.9.73.221/37365 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 79.9.73.221/37365
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:45+19:0:1452:33765,0:mss::0
+|
+`----
+--
+
+.-[ 113.82.40.142/44130 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 113.82.40.142/44130
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1440:25235,0:mss::0
+|
+`----
+--
+
+.-[ 179.182.80.55/49556 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 179.182.80.55/49556
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1452:42236,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 101.109.111.124/35599 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 101.109.111.124/35599
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:41+23:0:1440:26111,0:mss::0
+|
+`----
+--
+
+.-[ 178.183.152.129/55119 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 178.183.152.129/55119
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:233+22:0:1344:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 88.147.160.112/13799 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.147.160.112/13799
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1360:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 109.95.77.254/2610 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 109.95.77.254/2610
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 92.62.255.88/34774 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 92.62.255.88/34774
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 16
+| params   = generic fuzzy
+| raw_sig  = 4:239+16:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 27.75.32.167/41446 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 27.75.32.167/41446
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 223.65.212.139/19920 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 223.65.212.139/19920
+| os       = Linux 2.2.x-3.x
+| dist     = 26
+| params   = generic tos:0x01
+| raw_sig  = 4:38+26:0:1400:5632,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 88.249.210.104/17853 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.249.210.104/17853
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:37+27:0:1440:15309,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 187.110.169.154/29678 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 187.110.169.154/29678
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1440:17886,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 95.31.130.16/37463 -> 172.89.89.47/7547 (syn) ]-
+|
+| client   = 95.31.130.16/37463
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy
+| raw_sig  = 4:236+19:0:1460:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.165.9.73/35055 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.165.9.73/35055
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 29
+| params   = generic fuzzy
+| raw_sig  = 4:35+29:0:1360:32007,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 113.163.205.52/62331 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 113.163.205.52/62331
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 190.247.198.155/65174 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 190.247.198.155/65174
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1460:54206,0:mss:ecn:0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 182.73.243.26/35631 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 182.73.243.26/35631
+| os       = Linux 2.4.x
+| dist     = 18
+| params   = none
+| raw_sig  = 4:46+18:0:1460:mss*4,1:mss,sok,ts,nop,ws:df,id+:0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 91.191.206.38/42643 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 91.191.206.38/42643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 22
+| params   = generic fuzzy
+| raw_sig  = 4:42+22:0:1440:48523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 191.35.2.126/57824 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 191.35.2.126/57824
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:40+24:0:1452:64248,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 117.200.26.210/24041 -> 172.89.89.47/6789 (syn) ]-
+|
+| client   = 117.200.26.210/24041
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1360:mss*4,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 181.160.113.192/21239 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 181.160.113.192/21239
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 122.171.154.44/62444 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 122.171.154.44/62444
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 20
+| params   = generic fuzzy
+| raw_sig  = 4:235+20:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 191.254.249.98/51532 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 191.254.249.98/51532
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 24
+| params   = generic fuzzy
+| raw_sig  = 4:231+24:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 187.40.162.72/643 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 187.40.162.72/643
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 21
+| params   = generic fuzzy
+| raw_sig  = 4:234+21:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 88.249.124.156/17837 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 88.249.124.156/17837
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:228+27:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 85.99.105.56/16890 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 85.99.105.56/16890
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 27
+| params   = generic fuzzy
+| raw_sig  = 4:228+27:0:1440:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 143.0.149.94/35287 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 143.0.149.94/35287
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 23
+| params   = generic fuzzy
+| raw_sig  = 4:232+23:0:1168:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 77.28.102.214/41399 -> 172.89.89.47/5358 (syn) ]-
+|
+| client   = 77.28.102.214/41399
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 34
+| params   = generic fuzzy
+| raw_sig  = 4:221+34:0:1452:mss*10,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 192.116.81.229/16938 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 192.116.81.229/16938
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 19
+| params   = generic fuzzy tos:0x28
+| raw_sig  = 4:45+19:0:1400:22834,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/23 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 89.39.75.170/25123 -> 172.89.89.47/2323 (syn) ]-
+|
+| client   = 89.39.75.170/25123
+| os       = Linux 2.2.x-3.x (barebone)
+| dist     = 25
+| params   = generic fuzzy
+| raw_sig  = 4:39+25:0:1440:21523,0:mss::0
+|
+`----
+--
+
+.-[ 138.68.14.38/37026 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 138.68.14.38/37026
+| os       = Linux 2.2.x-3.x
+| dist     = 18
+| params   = generic
+| raw_sig  = 4:46+18:0:1460:mss*20,6:mss,sok,ts,nop,ws:df,id+:0
+|
+`----

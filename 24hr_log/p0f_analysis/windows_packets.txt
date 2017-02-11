@@ -1,0 +1,1187 @@
+
+.-[ 195.32.44.42/65298 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 195.32.44.42/65298
+| os       = Windows 7 or 8
+| dist     = 17
+| params   = fuzzy
+| raw_sig  = 4:47+17:0:1400:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 83.110.103.127/46929 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 83.110.103.127/46929
+| os       = Windows 7 or 8
+| dist     = 17
+| params   = fuzzy
+| raw_sig  = 4:111+17:0:1444:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 83.110.103.127/61176 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 83.110.103.127/61176
+| os       = Windows 7 or 8
+| dist     = 17
+| params   = none
+| raw_sig  = 4:111+17:0:1444:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 112.4.190.197/1098 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 112.4.190.197/1098
+| os       = Windows XP
+| dist     = 23
+| params   = fuzzy tos:0x01
+| raw_sig  = 4:105+23:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 37.49.224.130/57882 -> 172.89.89.47/110 (syn) ]-
+|
+| client   = 37.49.224.130/57882
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = fuzzy tos:0x0a
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 37.49.224.130/57882 -> 172.89.89.47/110 (syn) ]-
+|
+| client   = 37.49.224.130/57882
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = tos:0x0a
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 37.49.224.130/57882 -> 172.89.89.47/110 (syn) ]-
+|
+| client   = 37.49.224.130/57882
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = tos:0x0a
+| raw_sig  = 4:107+21:0:1460:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 186.73.207.18/4905 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 186.73.207.18/4905
+| os       = Windows XP
+| dist     = 20
+| params   = none
+| raw_sig  = 4:108+20:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 186.73.207.18/4905 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 186.73.207.18/4905
+| os       = Windows XP
+| dist     = 20
+| params   = none
+| raw_sig  = 4:108+20:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 186.73.207.18/4905 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 186.73.207.18/4905
+| os       = Windows XP
+| dist     = 20
+| params   = none
+| raw_sig  = 4:108+20:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 194.226.109.21/51767 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 194.226.109.21/51767
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = fuzzy
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 194.226.109.21/51767 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 194.226.109.21/51767
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = none
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 194.226.109.21/53000 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 194.226.109.21/53000
+| os       = Windows 7 or 8
+| dist     = 20
+| params   = fuzzy
+| raw_sig  = 4:108+20:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 117.4.192.26/65442 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 117.4.192.26/65442
+| os       = Windows 7 or 8
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1440:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 117.4.192.26/65442 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 117.4.192.26/65442
+| os       = Windows 7 or 8
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1440:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 117.4.192.26/65442 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 117.4.192.26/65442
+| os       = Windows XP
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1440:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 119.130.34.177/51253 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 119.130.34.177/51253
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1440:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 119.130.34.177/51253 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 119.130.34.177/51253
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1440:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 119.130.34.177/51253 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 119.130.34.177/51253
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1440:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 94.241.15.141/53143 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 94.241.15.141/53143
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = none
+| raw_sig  = 4:102+26:0:1440:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 94.241.15.141/53143 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 94.241.15.141/53143
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = none
+| raw_sig  = 4:102+26:0:1440:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 94.241.15.141/53143 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 94.241.15.141/53143
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = none
+| raw_sig  = 4:102+26:0:1440:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 61.0.242.100/4388 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 61.0.242.100/4388
+| os       = Windows XP
+| dist     = 22
+| params   = fuzzy
+| raw_sig  = 4:106+22:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 23.94.4.173/64778 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 23.94.4.173/64778
+| os       = Windows XP
+| dist     = 19
+| params   = fuzzy
+| raw_sig  = 4:109+19:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 103.243.224.101/49625 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 103.243.224.101/49625
+| os       = Windows 7 or 8
+| dist     = 33
+| params   = fuzzy
+| raw_sig  = 4:95+33:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 103.243.224.101/55618 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 103.243.224.101/55618
+| os       = Windows 7 or 8
+| dist     = 32
+| params   = fuzzy
+| raw_sig  = 4:96+32:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 116.68.197.222/61739 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 116.68.197.222/61739
+| os       = Windows 7 or 8
+| dist     = 23
+| params   = fuzzy
+| raw_sig  = 4:105+23:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 116.68.197.222/61739 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 116.68.197.222/61739
+| os       = Windows 7 or 8
+| dist     = 23
+| params   = none
+| raw_sig  = 4:105+23:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 116.68.197.222/62538 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 116.68.197.222/62538
+| os       = Windows 7 or 8
+| dist     = 23
+| params   = fuzzy
+| raw_sig  = 4:105+23:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 218.59.194.186/53429 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 218.59.194.186/53429
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 218.59.194.186/54550 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 218.59.194.186/54550
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 38.123.4.54/57779 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 38.123.4.54/57779
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = tos:0x1a
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 38.123.4.54/57779 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 38.123.4.54/57779
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = tos:0x1a
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 38.123.4.54/57779 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 38.123.4.54/57779
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = tos:0x1a
+| raw_sig  = 4:107+21:0:1460:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 164.77.154.178/61598 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 164.77.154.178/61598
+| os       = Windows 7 or 8
+| dist     = 23
+| params   = none
+| raw_sig  = 4:105+23:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 164.77.154.178/61598 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 164.77.154.178/61598
+| os       = Windows 7 or 8
+| dist     = 23
+| params   = none
+| raw_sig  = 4:105+23:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 164.77.154.178/61598 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 164.77.154.178/61598
+| os       = Windows 7 or 8
+| dist     = 23
+| params   = none
+| raw_sig  = 4:105+23:0:1460:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 46.229.143.46/1449 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 46.229.143.46/1449
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = fuzzy
+| raw_sig  = 4:102+26:0:1460:8192,8:mss,nop,ws,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 46.229.143.46/1449 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 46.229.143.46/1449
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = fuzzy
+| raw_sig  = 4:102+26:0:1460:8192,8:mss,nop,ws,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 46.229.143.46/1449 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 46.229.143.46/1449
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = fuzzy
+| raw_sig  = 4:102+26:0:1460:8192,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 58.209.57.17/55906 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 58.209.57.17/55906
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = fuzzy
+| raw_sig  = 4:40+24:0:1440:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 58.209.57.17/55906 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 58.209.57.17/55906
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = fuzzy
+| raw_sig  = 4:40+24:0:1440:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 23.94.4.173/45263 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 23.94.4.173/45263
+| os       = Windows XP
+| dist     = 19
+| params   = fuzzy
+| raw_sig  = 4:109+19:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 61.219.33.217/58276 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 61.219.33.217/58276
+| os       = Windows XP
+| dist     = 23
+| params   = fuzzy
+| raw_sig  = 4:105+23:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 219.142.237.211/2632 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 219.142.237.211/2632
+| os       = Windows 7 or 8
+| dist     = 22
+| params   = fuzzy
+| raw_sig  = 4:42+22:0:1452:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 219.142.237.211/2632 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 219.142.237.211/2632
+| os       = Windows 7 or 8
+| dist     = 22
+| params   = fuzzy
+| raw_sig  = 4:42+22:0:1452:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 219.142.237.211/2632 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 219.142.237.211/2632
+| os       = Windows 7 or 8
+| dist     = 22
+| params   = fuzzy
+| raw_sig  = 4:42+22:0:1452:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 80.82.66.188/52589 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 80.82.66.188/52589
+| os       = Windows 7 or 8
+| dist     = 15
+| params   = none
+| raw_sig  = 4:113+15:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 80.82.66.188/52589 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 80.82.66.188/52589
+| os       = Windows 7 or 8
+| dist     = 15
+| params   = none
+| raw_sig  = 4:113+15:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 80.82.66.188/52589 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 80.82.66.188/52589
+| os       = Windows 7 or 8
+| dist     = 15
+| params   = none
+| raw_sig  = 4:113+15:0:1460:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 80.82.66.188/53286 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 80.82.66.188/53286
+| os       = Windows 7 or 8
+| dist     = 15
+| params   = none
+| raw_sig  = 4:113+15:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 106.0.160.242/17584 -> 172.89.89.47/1099 (syn) ]-
+|
+| client   = 106.0.160.242/17584
+| os       = Windows XP
+| dist     = 18
+| params   = fuzzy
+| raw_sig  = 4:110+18:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 198.15.70.38/56753 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 198.15.70.38/56753
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = fuzzy
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 198.15.70.38/56753 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 198.15.70.38/56753
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = none
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 198.15.70.38/58789 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 198.15.70.38/58789
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = fuzzy
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 188.164.202.81/58591 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 188.164.202.81/58591
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = fuzzy tos:0x02
+| raw_sig  = 4:102+26:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 188.164.202.81/58591 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 188.164.202.81/58591
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = tos:0x02
+| raw_sig  = 4:102+26:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 188.164.202.81/59786 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 188.164.202.81/59786
+| os       = Windows 7 or 8
+| dist     = 27
+| params   = fuzzy tos:0x02
+| raw_sig  = 4:101+27:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 158.140.170.5/29698 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 158.140.170.5/29698
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = tos:0x1c
+| raw_sig  = 4:104+24:0:1412:8192,2:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 158.140.170.5/29698 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 158.140.170.5/29698
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = tos:0x1c
+| raw_sig  = 4:104+24:0:1412:8192,2:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 158.140.170.5/29698 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 158.140.170.5/29698
+| os       = Windows XP
+| dist     = 24
+| params   = tos:0x1c
+| raw_sig  = 4:104+24:0:1412:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 1.214.84.11/55234 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 1.214.84.11/55234
+| os       = Windows 7 or 8
+| dist     = 25
+| params   = fuzzy
+| raw_sig  = 4:103+25:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 1.214.84.11/55234 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 1.214.84.11/55234
+| os       = Windows 7 or 8
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 1.214.84.11/56048 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 1.214.84.11/56048
+| os       = Windows 7 or 8
+| dist     = 26
+| params   = fuzzy
+| raw_sig  = 4:102+26:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 45.62.230.32/63415 -> 172.89.89.47/5900 (syn) ]-
+|
+| client   = 45.62.230.32/63415
+| os       = Windows XP
+| dist     = 21
+| params   = fuzzy
+| raw_sig  = 4:107+21:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 88.235.121.5/57469 -> 172.89.89.47/21 (syn) ]-
+|
+| client   = 88.235.121.5/57469
+| os       = Windows 7 or 8
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1452:8192,2:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 88.235.121.5/57469 -> 172.89.89.47/21 (syn) ]-
+|
+| client   = 88.235.121.5/57469
+| os       = Windows 7 or 8
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1452:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 49.207.9.152/63174 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 49.207.9.152/63174
+| os       = Windows 7 or 8
+| dist     = 30
+| params   = fuzzy
+| raw_sig  = 4:98+30:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 49.207.9.152/63174 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 49.207.9.152/63174
+| os       = Windows 7 or 8
+| dist     = 30
+| params   = none
+| raw_sig  = 4:98+30:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 49.207.9.152/63950 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 49.207.9.152/63950
+| os       = Windows 7 or 8
+| dist     = 30
+| params   = fuzzy
+| raw_sig  = 4:98+30:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 85.114.138.223/57575 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 85.114.138.223/57575
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = fuzzy
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 85.114.138.223/57575 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 85.114.138.223/57575
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = none
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 85.114.138.223/58242 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 85.114.138.223/58242
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = fuzzy
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 37.49.225.152/1520 -> 172.89.89.47/110 (syn) ]-
+|
+| client   = 37.49.225.152/1520
+| os       = Windows XP
+| dist     = 21
+| params   = tos:0x02
+| raw_sig  = 4:107+21:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 37.49.225.152/1520 -> 172.89.89.47/110 (syn) ]-
+|
+| client   = 37.49.225.152/1520
+| os       = Windows XP
+| dist     = 21
+| params   = tos:0x02
+| raw_sig  = 4:107+21:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 37.49.225.152/1520 -> 172.89.89.47/110 (syn) ]-
+|
+| client   = 37.49.225.152/1520
+| os       = Windows XP
+| dist     = 21
+| params   = tos:0x02
+| raw_sig  = 4:107+21:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 210.209.93.40/51489 -> 172.89.89.47/22 (syn) ]-
+|
+| client   = 210.209.93.40/51489
+| os       = Windows XP
+| dist     = 23
+| params   = fuzzy tos:0x10
+| raw_sig  = 4:105+23:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 85.25.44.189/26197 -> 172.89.89.47/2083 (syn) ]-
+|
+| client   = 85.25.44.189/26197
+| os       = Windows XP
+| dist     = 21
+| params   = fuzzy tos:0x02
+| raw_sig  = 4:107+21:0:1460:65535,0:mss,nop,nop,sok::0
+|
+`----
+
+--
+
+.-[ 213.169.53.118/58860 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 213.169.53.118/58860
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1452:8192,2:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 213.169.53.118/58860 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 213.169.53.118/58860
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1452:8192,2:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 213.169.53.118/58860 -> 172.89.89.47/4899 (syn) ]-
+|
+| client   = 213.169.53.118/58860
+| os       = Windows 7 or 8
+| dist     = 24
+| params   = none
+| raw_sig  = 4:104+24:0:1452:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 103.243.224.101/56383 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 103.243.224.101/56383
+| os       = Windows 7 or 8
+| dist     = 33
+| params   = fuzzy
+| raw_sig  = 4:95+33:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 103.243.224.101/56383 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 103.243.224.101/56383
+| os       = Windows 7 or 8
+| dist     = 33
+| params   = none
+| raw_sig  = 4:95+33:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 103.243.224.101/53331 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 103.243.224.101/53331
+| os       = Windows 7 or 8
+| dist     = 32
+| params   = fuzzy
+| raw_sig  = 4:96+32:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 122.114.235.82/4983 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 122.114.235.82/4983
+| os       = Windows XP
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 122.114.235.82/4983 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 122.114.235.82/4983
+| os       = Windows XP
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 122.114.235.82/4983 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 122.114.235.82/4983
+| os       = Windows XP
+| dist     = 25
+| params   = none
+| raw_sig  = 4:103+25:0:1460:65535,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 203.86.72.12/4805 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 203.86.72.12/4805
+| os       = Windows 7 or 8
+| dist     = 31
+| params   = none
+| raw_sig  = 4:97+31:0:1360:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 203.86.72.12/4805 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 203.86.72.12/4805
+| os       = Windows 7 or 8
+| dist     = 31
+| params   = none
+| raw_sig  = 4:97+31:0:1360:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 203.86.72.12/4805 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 203.86.72.12/4805
+| os       = Windows 7 or 8
+| dist     = 31
+| params   = none
+| raw_sig  = 4:97+31:0:1360:8192,0:mss,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 83.103.154.99/42513 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 83.103.154.99/42513
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = none
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 83.103.154.99/42513 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 83.103.154.99/42513
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = none
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 83.103.154.99/43306 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 83.103.154.99/43306
+| os       = Windows 7 or 8
+| dist     = 21
+| params   = none
+| raw_sig  = 4:107+21:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 221.7.137.246/58981 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 221.7.137.246/58981
+| os       = Windows XP
+| dist     = 24
+| params   = fuzzy
+| raw_sig  = 4:40+24:0:1460:65535,0:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 221.7.137.246/58981 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 221.7.137.246/58981
+| os       = Windows XP
+| dist     = 24
+| params   = fuzzy
+| raw_sig  = 4:40+24:0:1460:65535,0:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 221.7.137.246/58981 -> 172.89.89.47/1433 (syn) ]-
+|
+| client   = 221.7.137.246/58981
+| os       = Windows XP
+| dist     = 24
+| params   = fuzzy
+| raw_sig  = 4:40+24:0:1460:65535,0:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 35.154.18.85/59756 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 35.154.18.85/59756
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = fuzzy
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
+--
+
+.-[ 35.154.18.85/59756 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 35.154.18.85/59756
+| os       = Windows 7 or 8
+| dist     = 19
+| params   = none
+| raw_sig  = 4:109+19:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+:0
+|
+`----
+
+--
+
+.-[ 35.154.18.85/59933 -> 172.89.89.47/3389 (syn) ]-
+|
+| client   = 35.154.18.85/59933
+| os       = Windows 7 or 8
+| dist     = 18
+| params   = fuzzy
+| raw_sig  = 4:110+18:0:1460:8192,8:mss,nop,ws,nop,nop,sok:df,id+,ecn:0
+|
+`----
+
