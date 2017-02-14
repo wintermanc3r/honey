@@ -10,7 +10,7 @@ $ ./extract_unique_ips.bash > unique_ips.txt
 
 The above command line generates a file called `unique_ips.txt`. Feel free to change the name of this file in the above command line. The format of the output (here the file) is:
 
-- number of requests
+- number of packets
 - unique IP address
 
 See file `unique_ips.txt`.
@@ -27,7 +27,7 @@ cat unique_ips.txt | ./ip_to_asn.py > ip_asn.txt
 
 Output format:
 
-- number of requests
+- number of packets
 - unique IP address
 - ASN of the IP address
 
@@ -75,6 +75,13 @@ _Note_: We did run the script on 2/13/2017 - At that time, there were 13043 AS i
 ```
 $ cat ip_asn_bgp.txt | ./sort_ip_asn_bgp_by_bgp.bash > ip_asn_bgp_sorted.txt
 ```
+
+Format:
+
+- number of packets
+- unique IP address
+- ASN of the IP address
+- BGP score
 
 Top top in our pcap file:
 
