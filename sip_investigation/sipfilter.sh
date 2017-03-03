@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# dumps sip packets to a file
 list=$(cat SIP_requests.txt | cut -f1)
 
 for i in $list;
