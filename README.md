@@ -21,8 +21,11 @@ This project is a joint effort between [Holberton School](https://www.holbertons
 7. Compare the pcap with auth.log from that day to determine what is ssh bruteforce and what is not.
 
 ## To Do
+* [ ] -- Tim: Continue analyzing Telnet protocol + Mirai/Hijimbe Botnets and keep the project moving
+* [ ] -- Ian C: Write the paper and organize / compile data
 * [ ] -- Swati and Ian L-J: Research and deploy SIP honeypot
-* [ ] -- Ian C: Write the paper and organize the data
+* [ ] -- Richard: Setup + investigate possible honeypots / protocols to analyze. Currently deploying glastopf
+* [ ] -- Danton: Compare authlogs and SSH bruteforce to determine what is a normal ssh bruteforce and what could be anomalous. Simultaneously, decide on a final protocol to analyze.
 
 ## Installed packages / honeypots:
 * tshark
