@@ -21,6 +21,9 @@
 - [ ] [List of well known ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 - [ ] [How to monitor system authentication logs](https://www.digitalocean.com/community/tutorials/how-to-monitor-system-authentication-logs-on-ubuntu)
 
+## SIP
+- [ ] [Artemesia Honeypot](http://artemisa.sourceforge.net/documentation/Introduction.html#what-is-artemisa)
+- [ ] [SIP RFC](https://www.ietf.org/rfc/rfc3261.txt)
 
 ## Honeypots
 - [ ] [Glutton](https://github.com/mushorg/glutton)
