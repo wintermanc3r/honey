@@ -10,7 +10,7 @@ sudo docker build --tag glastopf .
 # create a directory for our logs and configs
 mkdir myhoneypot1
 # run the docker container
-sudo docker run --detach --publish 80:80 --volume myhoneypot1:/opt/myhoneypot1 glastopf
+sudo docker run --detach --publish 80:80 --volume myhoneypot1:/opt/myhoneypot glastopf
 # create the log file manually
 touch http_log.pcap
 # change owner to root because we run tshark in root
