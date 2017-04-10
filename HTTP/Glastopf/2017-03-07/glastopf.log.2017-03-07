@@ -1,0 +1,16 @@
+2017-03-07 02:28:54,931 (glastopf.glastopf) Initializing Glastopf 3.1.3-dev using "/opt/myhoneypot" as work directory.
+2017-03-07 02:28:55,106 (glastopf.glastopf) Connecting to main database with: sqlite:///db/glastopf.db
+2017-03-07 02:28:55,244 (glastopf.modules.handlers.emulators.dork_list.dork_page_generator) Bootstrapping dork database.
+2017-03-07 02:28:59,571 (glastopf.glastopf) Generating initial dork pages - this can take a while.
+2017-03-07 02:28:59,692 (glastopf.glastopf) Glastopf started and privileges dropped.
+2017-03-07 03:35:33,598 (glastopf.glastopf) 1.55.132.130 requested GET / on 13dc3d8ebca9:80
+2017-03-07 12:10:01,171 (glastopf.glastopf) 139.162.119.197 requested GET / on 13dc3d8ebca9:80
+2017-03-07 12:44:39,090 (glastopf.glastopf) 118.174.136.233 requested GET / on 13dc3d8ebca9:80
+2017-03-07 13:13:44,378 (glastopf.glastopf) 190.92.37.214 requested GET / on 13dc3d8ebca9:80
+2017-03-07 18:34:48,665 (glastopf.glastopf) 66.102.7.189 requested GET / on 13dc3d8ebca9:80
+2017-03-07 18:34:48,787 (glastopf.glastopf) 66.102.7.190 requested GET /favicon.ico on 13dc3d8ebca9:80
+2017-03-07 18:41:38,736 (glastopf.glastopf) 95.224.194.19 requested GET / on 13dc3d8ebca9:80
+2017-03-07 19:08:12,908 (glastopf.glastopf) 42.112.165.115 requested GET / on 13dc3d8ebca9:80
+2017-03-07 20:43:03,831 (glastopf.glastopf) 191.96.249.97 requested GET /phpmyadmin/scripts/setup.php on 13dc3d8ebca9:80
+2017-03-07 21:19:49,609 (glastopf.glastopf) 139.162.124.167 requested GET / on 13dc3d8ebca9:80
+2017-03-07 23:46:41,616 (glastopf.glastopf) 187.136.247.44 requested GET / on 13dc3d8ebca9:80
