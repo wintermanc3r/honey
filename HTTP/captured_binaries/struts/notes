@@ -1,0 +1,82 @@
+########################################## ANALYSIS OF apacheaes ##########################################
+USER AGENT:
+	cpuminer2.3.3
+	https://github.com/pooler/cpuminer
+	
+MINING POOL: 
+	stratum
+	https://slushpool.com/help/?_escaped_fragment_=/manual/stratum-protocol#!/manual/stratum-protocol
+
+USER NAME: 
+	sqwukiomcage
+
+What is this?  93175Y_SQWUKIOMCAGEy
+
+
+
+
+
+string found at 0x0041af62: yay
+string found at 0x0041af6b: booooo
+string found at 0x0001b2f5: userpass
+addr=0x0041b3bf off=0x0001b3bf ordinal=108 sz=51 section=.rodata string=uuserUSERNAMEusernameforminingserver
+string found at 0x0001b3f2: ppassPASSWORDpasswordforminingserver
+addr=0x0041b97f off=0x0001b97f ordinal=132 sz=22 section=.rodata string=builtonFeb242017
+addr=0x0041c2bd off=0x0001c2bd ordinal=172 sz=27 section=.rodata string=UserAgentcpuminer2.3.3
+ddr=0x0041ef10 off=0x0001ef10 ordinal=985 sz=35 section=.rodata string=93175Y_SQWUKIOMCAGEy
+addr=0x0041ef33 off=0x0001ef33 ordinal=986 sz=14 section=.rodata string=sqwukiomcage
+addr=0x0041ef90 off=0x0001ef90 ordinal=987 sz=49 section=.rodata string=03659.cfelojixtwrqPSVU_ZYHKNMDGBA
+addr=0x0041f130 off=0x0001f130 ordinal=997 sz=9 section=.rodata string=GNUcjqx
+
+
+-----------------------------------------------------------------------------------------
+addr=0x0041b351 off=0x0001b351 ordinal=106 sz=45 section=.rodata string=ourlURLURLofminingserver
+addr=0x0041b37e off=0x0001b37e ordinal=107 sz=65 section=.rodata string=OuserpassUPusernamepasswordpairforminingserver
+addr=0x0041b3bf off=0x0001b3bf ordinal=108 sz=51 section=.rodata string=uuserUSERNAMEusernameforminingserver
+addr=0x0041b3f2 off=0x0001b3f2 ordinal=109 sz=51 section=.rodata string=ppassPASSWORDpasswordforminingserver
+addr=0x0041b425 off=0x0001b425 ordinal=110 sz=64 section=.rodata string=certFILEcertificateforminingserverusingSSL
+addr=0x0041b465 off=0x0001b465 ordinal=111 sz=64 section=.rodata string=xproxyPROTOCOLHOSTPORTconnectthroughaproxy
+addr=0x0041b4a5 off=0x0001b4a5 ordinal=112 sz=80 section=.rodata string=tthreadsNnumberofminerthreadsdefaultnumberofprocessors
+
+addr=0x0041b970 off=0x0001b970 ordinal=131 sz=15 section=.rodata string=cpuminer2.3.3
+addr=0x0041b97f off=0x0001b97f ordinal=132 sz=22 section=.rodata string=builtonFeb242017
+addr=0x0041b995 off=0x0001b995 ordinal=133 sz=27 section=.rodata string=featuresx86_64SSE2AVX
+addr=0x0041b9b0 off=0x0001b9b0 ordinal=134 sz=41 section=.rodata string=sunsupportednonoptionarguments
+addr=0x0041b9e0 off=0x0001b9e0 ordinal=135 sz=48 section=.rodata string=dminerthreadsstartedusingsalgorithm.
+
+
+
+addr=0x0041ef10 off=0x0001ef10 ordinal=985 sz=35 section=.rodata string=93175Y_SQWUKIOMCAGEy
+addr=0x0041ef33 off=0x0001ef33 ordinal=986 sz=14 section=.rodata string=sqwukiomcage
+addr=0x0041ef90 off=0x0001ef90 ordinal=987 sz=49 section=.rodata string=03659.cfelojixtwrqPSVU_ZYHKNMDGBA
+addr=0x0041f040 off=0x0001f040 ordinal=988 sz=29 section=.rodata string=XWTQRCEFOLIJkhmngdabspuv
+addr=0x0041f05d off=0x0001f05d ordinal=989 sz=20 section=.rodata string=yz87412
+addr=0x0041f084 off=0x0001f084 ordinal=990 sz=13 section=.rodata string=6HAZSlew
+addr=0x0041f0a0 off=0x0001f0a0 ordinal=991 sz=5 section=.rodata string=2
+addr=0x0041f0a8 off=0x0001f0a8 ordinal=992 sz=9 section=.rodata string=szahWEL
+addr=0x0041f0c2 off=0x0001f0c2 ordinal=993 sz=11 section=.rodata string=dmRI7
+addr=0x0041f0e0 off=0x0001f0e0 ordinal=994 sz=9 section=.rodata string=MD_Vir
+addr=0x0041f0ec off=0x0001f0ec ordinal=995 sz=5 section=.rodata string=3
+addr=0x0041f110 off=0x0001f110 ordinal=996 sz=13 section=.rodata string=ungXQJC4
+addr=0x0041f130 off=0x0001f130 ordinal=997 sz=9 section=.rodata string=GNUcjqx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########################################ANALYSIS OF http.conf##########################################
+Hash Algorithm: 
+	cryptonight
+user from httpd.conf: 
+	44dQ1h4REnz94DC5wKggiLgFKB7cp2QwAPwoqT2tW98k5rsdCAWXSGaMLsRn12QeaiB6u1vzSLqXx19GHiHptaL5Et6p7Dt

