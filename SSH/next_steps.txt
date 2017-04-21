@@ -1,0 +1,7 @@
+For SSH:
+-need to look at BGP rank score of the AS and see the rank.
+
+For SSDP: continue to investigate. Look at SSDP honeypots, may need to write one.
+
+Lastly, run pcap thru SNORT or suricata
+
