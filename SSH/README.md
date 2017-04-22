@@ -1,4 +1,4 @@
-### Alternative protocol notes
+### SSH and Alternative protocol notes
 
 *Overview:* 617,694 total packets:
 	    36,987 non-TCP packets (6% of total)
@@ -9,6 +9,24 @@
 
 
 #### SSH Analysis
+
+The 'AS_IP_table' file contains a table with information related to
+each of the SSH attempt destination IPs. The table includes:
+* AS
+* IP
+* BGP Prefix
+* Country
+* Registry
+* Allocated
+* AS Name
+* Number of SSH attempts
+
+The table can be rebuilt by:
+* exec AS_lookup.py for the look up information
+* exec AS_results_parse.py to clean the look up information
+* exec count_append.py to add the number of associated IP attempts as a new column to the table
+
+
 
 Below is a table of the IP addresses that exchanged SSH packets. For all IPs where count(SSH packets) < 10, the IP was looked up in the authlog and in pcap to look for anomolous information.
 
