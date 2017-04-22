@@ -1,0 +1,39 @@
+AS      | IP               | BGP Prefix          | CC | Registry | Allocated  | AS Name
+3786    | 112.217.150.112  | 112.216.0.0/13      | KR | apnic    | 2009-02-16 | LGDACOM LG DACOM Corporation, KR
+4837    | 112.85.42.124    | 112.80.0.0/13       | CN | apnic    | 2008-12-31 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4134    | 115.197.192.51   | 115.192.0.0/11      | CN | apnic    | 2008-09-03 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 115.204.21.209   | 115.192.0.0/11      | CN | apnic    | 2008-09-03 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+134764  | 116.31.116.17    | 116.31.96.0/19      | CN | apnic    | 2007-03-07 | CT-FOSHAN-IDC CHINANET Guangdong province network, CN
+4134    | 118.255.205.246  | 118.248.0.0/13      | CN | apnic    | 2007-11-12 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4766    | 118.33.200.205   | 118.32.0.0/13       | KR | apnic    | 2007-08-03 | KIXS-AS-KR Korea Telecom, KR
+4837    | 119.249.54.71    | 119.248.0.0/14      | CN | apnic    | 2008-03-05 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 121.18.238.104   | 121.16.0.0/13       | CN | apnic    | 2006-05-08 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 121.18.238.109   | 121.16.0.0/13       | CN | apnic    | 2006-05-08 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 121.18.238.114   | 121.16.0.0/13       | CN | apnic    | 2006-05-08 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 121.18.238.98    | 121.16.0.0/13       | CN | apnic    | 2006-05-08 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+24560   | 122.179.161.89   | 122.179.160.0/21    | IN | apnic    | 2008-07-07 | AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
+14061   | 138.68.14.38     | 138.68.0.0/20       | US | arin     | 2016-01-26 | DIGITALOCEAN-ASN - Digital Ocean, Inc., US
+4837    | 153.99.182.21    | 153.99.0.0/16       | CN | apnic    | 2011-03-30 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+20001   | 172.89.89.47     | 172.88.0.0/14       | US | arin     | 2015-05-15 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+262462  | 177.54.225.78    | 177.54.224.0/21     | BR | lacnic   | 2011-05-06 | ARANET COMUNICAÇÃO LTDA, BR
+14080   | 181.57.149.131   | 181.57.128.0/17     | CO | lacnic   | 2012-10-16 | Telmex Colombia S.A., CO
+4134    | 182.47.136.180   | 182.32.0.0/12       | CN | apnic    | 2010-02-12 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+12252   | 190.117.247.204  | 190.117.224.0/19    | PE | lacnic   | 2010-05-13 | America Movil Peru S.A.C., PE
+3215    | 193.250.18.202   | 193.250.0.0/16      | FR | ripencc  |            | AS3215, FR
+27738   | 200.124.227.164  | 200.124.227.0/24    | EC | lacnic   | 2004-04-16 | Ecuadortelecom S.A., EC
+22781   | 207.204.227.131  | 207.204.224.0/19    | US | arin     | 2010-09-09 | RBLHST - Strong Technology, LLC., US
+17444   | 210.209.93.40    | 210.209.93.0/24     | HK | apnic    | 2004-12-15 | NWT-AS-AP AS number for New World Telephone Ltd., HK
+4837    | 221.194.44.195   | 221.194.0.0/16      | CN | apnic    | 2003-06-11 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 221.194.44.219   | 221.194.0.0/16      | CN | apnic    | 2003-06-11 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 221.194.44.224   | 221.194.0.0/16      | CN | apnic    | 2003-06-11 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 221.194.44.231   | 221.194.0.0/16      | CN | apnic    | 2003-06-11 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 221.194.47.208   | 221.194.0.0/16      | CN | apnic    | 2003-06-11 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 221.194.47.224   | 221.194.0.0/16      | CN | apnic    | 2003-06-11 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4837    | 221.194.47.249   | 221.194.0.0/16      | CN | apnic    | 2003-06-11 | CHINA169-BACKBONE CNCGROUP China169 Backbone, CN
+4134    | 58.218.204.183   | 58.208.0.0/12       | CN | apnic    | 2005-06-24 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 58.218.204.66    | 58.208.0.0/12       | CN | apnic    | 2005-06-24 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 60.185.161.239   | 60.176.0.0/12       | CN | apnic    | 2004-06-25 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+2518    | 60.239.96.63     | 60.236.0.0/14       | JP | apnic    | 2005-06-02 | BIGLOBE BIGLOBE Inc., JP
+10439   | 71.6.146.185     | 71.6.128.0/17       | US | arin     | 2006-02-01 | CARINET - CariNet, Inc., US
+5617    | 79.185.167.48    | 79.184.0.0/13       | PL | ripencc  | 2007-06-15 | TPNET, PL
+9116    | 80.178.124.82    | 80.178.96.0/19      | IL | ripencc  | 2002-07-05 | GOLDENLINES-ASN 012 Smile Communications Main Autonomous System, IL
