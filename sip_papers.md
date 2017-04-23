@@ -1,4 +1,4 @@
-#Readings
+# Readings
 
 - [SIP Security](http://security.hsr.ch/docs/DFN_SIP.pdf)
 
@@ -24,7 +24,7 @@
 
 - [SIP ALCATEL WHITE PAPER](http://cse.iitkgp.ac.in/~pallab/mob_com/AlcatelLucent_SIP_Whitepaper.pdf)
 
-#Videos
+# Videos
 
 - [SIP Call Flow Analysis](https://www.youtube.com/watch?v=gr2mt3BY-Sg)
 
@@ -32,7 +32,7 @@
 
 - [How To Crack SIP Authentication & Listen To VoIP Calls In 15-Minutes](https://www.youtube.com/watch?v=9yS7mr977so)
 
-#Libraries/Tools
+# Libraries/Tools
 
 - [Artemisa](http://artemisa.sourceforge.net/documentation/Installation.html)
 
