@@ -1,0 +1,1 @@
+all_ips: cat 04-02.log | grep -a Opened | cut -f8- -d' '| cut -d':' -f 1 | sort -n | uniq | cut -f4 -d' ' > all_ips
