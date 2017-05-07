@@ -99,13 +99,6 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="20686e29efb5acd236cfb7fbcf1b01a0", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="JAEDPEFONFBGMDAMAFIHGKNMICDPODMONEFBNDIM", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:38:59] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="20686e29efb5acd236cfb7fbcf1b01a0", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="JAEDPEFONFBGMDAMAFIHGKNMICDPODMONEFBNDIM", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:00] Attempted login!
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
@@ -113,21 +106,7 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="c5c2245da4afe041e69b327a91320427", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="FNIPONJAGPDMGIHKLFFCEBDNFNFLMNDEMDBBOBLI", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:00] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="c5c2245da4afe041e69b327a91320427", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="FNIPONJAGPDMGIHKLFFCEBDNFNFLMNDEMDBBOBLI", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:00] Attempted login!
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="f35889c78d9a687c034f31410a36c23c", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HNGHDLCNPACHEAMIDHIONKHOAJGAPBIDEFHDIDCI", qop=auth
-
-77.66.108.88 - - [01/Apr/2017 19:39:00] "GET / HTTP/1.1" 401 -
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
 Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
@@ -155,13 +134,6 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="3660b8984bf19a6a84a069433a988ff6", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="CABBFFEHEDGCOEOCNPDLKPMPPBNNLKOCJPMBPOJG", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:01] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="3660b8984bf19a6a84a069433a988ff6", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="CABBFFEHEDGCOEOCNPDLKPMPPBNNLKOCJPMBPOJG", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:01] Attempted login!
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
@@ -169,21 +141,7 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="29c68bd6dbea3ece4ef68622c03d217d", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HEKMDDDNKOOEGBLMGHLBJJOINEGKKGKIJBBMOFOD", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:01] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="29c68bd6dbea3ece4ef68622c03d217d", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HEKMDDDNKOOEGBLMGHLBJJOINEGKKGKIJBBMOFOD", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:02] Attempted login!
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="065c47c2960b363e9414ceb38be1f6df", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="JOFJFOIAKIPGPDGFFLJDJAJEMDHPKIGICLBMNPJF", qop=auth
-
-77.66.108.88 - - [01/Apr/2017 19:39:02] "GET / HTTP/1.1" 401 -
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
 Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
@@ -197,13 +155,6 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="ac6537b89fce7d9e566dbfedfdf309c1", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HKEEFBLBGMILGDCMEMDEBGFFJGKMFIMLKKJJAFLD", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:02] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="ac6537b89fce7d9e566dbfedfdf309c1", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HKEEFBLBGMILGDCMEMDEBGFFJGKMFIMLKKJJAFLD", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:02] Attempted login!
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
@@ -211,21 +162,7 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="4a2043c60a2d78686f227c038b67ed22", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="BDJBKHDONCMADJFNNHOPMAOCJJIOCFHPBHHNICDI", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:02] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="4a2043c60a2d78686f227c038b67ed22", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="BDJBKHDONCMADJFNNHOPMAOCJJIOCFHPBHHNICDI", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:03] Attempted login!
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="2dc82a0427a5aa6afb99dcc36656c925", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HLPFDINPOBEADNAANPLBCJBEGKLKCABLNKIBKDFG", qop=auth
-
-77.66.108.88 - - [01/Apr/2017 19:39:03] "GET / HTTP/1.1" 401 -
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
 Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
@@ -239,13 +176,6 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="0c0cbc21d614db3335778b325f9ebdd1", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="KENOBNAGOHHKHGLEHLBJLFGBPFCBFCBEGCGOHMDA", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:03] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="0c0cbc21d614db3335778b325f9ebdd1", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="KENOBNAGOHHKHGLEHLBJLFGBPFCBFCBEGCGOHMDA", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:03] Attempted login!
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
@@ -253,21 +183,7 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="64d4e4ce8af0bb96e66f06be8a8c011e", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="OPEJDEKKCHEIHFNNJJOBJKODMNGMKNNEIIDGHGFD", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:03] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="64d4e4ce8af0bb96e66f06be8a8c011e", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="OPEJDEKKCHEIHFNNJJOBJKODMNGMKNNEIIDGHGFD", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:04] Attempted login!
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="af059eea1a17a6c3670cc13db0c321de", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="DMJLJCGOLPJCBDJNMFPDOKAFLHHKEJDGMFAJHLCH", qop=auth
-
-77.66.108.88 - - [01/Apr/2017 19:39:04] "GET / HTTP/1.1" 401 -
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
 Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
@@ -281,21 +197,7 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="ca2f35119eee7f9b54b30b05403a087f", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="DMJELDFFCINEHAPMJLBLIPDEKLOENAIMJKJPKELJ", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:04] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="ca2f35119eee7f9b54b30b05403a087f", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="DMJELDFFCINEHAPMJLBLIPDEKLOENAIMJKJPKELJ", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:05] Attempted login!
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="74cd1098b2059ff8e3417c469b90be66", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="LLIGBPMFPJKEIEFPNHACGDIMFEBHFKOEOBBJAKBN", qop=auth
-
-77.66.108.88 - - [01/Apr/2017 19:39:05] "GET / HTTP/1.1" 401 -
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
 Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
@@ -309,13 +211,6 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="01d72b883329cf2c66c7437b84efcb3f", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="EENKADFLLIAEDNJNLFJPNKPNFGIMGLHCFPHFFOMB", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:05] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="01d72b883329cf2c66c7437b84efcb3f", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="EENKADFLLIAEDNJNLFJPNKPNFGIMGLHCFPHFFOMB", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:05] Attempted login!
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
@@ -323,13 +218,6 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="1f2b4d37772f297a729411a69b40b5b1", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HGAJMMDEEHDEPIMMGHADLKNDDNKDIMPDAFPCGFDE", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:05] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="1f2b4d37772f297a729411a69b40b5b1", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="HGAJMMDEEHDEPIMMGHADLKNDDNKDIMPDAFPCGFDE", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:06] Attempted login!
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
@@ -337,21 +225,7 @@ Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: keep-alive
 Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="c0ab7302d1f1be558d9f5b62188a6e82", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="KECOIDLDKDGLGFEGKHBPKNLBBKHOGIPJBNMGKPEI", qop=auth
 
-77.66.108.88 - - [01/Apr/2017 19:39:06] "GET / HTTP/1.1" 401 -
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="c0ab7302d1f1be558d9f5b62188a6e82", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="KECOIDLDKDGLGFEGKHBPKNLBBKHOGIPJBNMGKPEI", qop=auth
-
 77.66.108.88 - - [01/Apr/2017 19:39:06] Attempted login!
-User-Agent: Java/1.8.0_112
-Host: 138.68.51.103
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: keep-alive
-Authorization: Digest username="admin", realm="GoAhead", nonce="a32f2b51bcb55c24d003a21be5ec0345", nc=00000001, uri="/", response="2ed18c1fab64b3b571c9ebf281e6b174", algorithm=MD5, opaque="5ccc069c403ebaf9f0171e9517f40e41", cnonce="KCNNLOJCKCHECJCCKHMKNCBBIGHBKJLAOOEHEPIO", qop=auth
-
-77.66.108.88 - - [01/Apr/2017 19:39:06] "GET / HTTP/1.1" 401 -
 User-Agent: Java/1.8.0_112
 Host: 138.68.51.103
 Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
